@@ -12,6 +12,6 @@
 ## Contact Information
 
 Email: [sjsteadman05@icloud.com] && [steadman@vt.edu]
-LinkedIn: [https://www.linkedin.com/in/spencer-steadman-642b38269/]
-Instagram: [@s__steadman]
-Github: [[[steadman1](https://github.com/steadman1)]](https://github.com/steadman1)https://github.com/steadman1)
+LinkedIn: [Spencer Steadman](https://www.linkedin.com/in/spencer-steadman-642b38269/)
+Instagram: [@s__steadman](https://instagram.com/@s__steadman)
+Github: [steadman1](https://github.com/steadman1)
