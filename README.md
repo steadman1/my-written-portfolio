@@ -6,19 +6,23 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
 
 ## Contents
 1. [My Skills—Through Projects](#my-skills-shown-through-projects)
-   * [🎶 My Interactive Portfolio Website 🏡](#-my-interactive-portfolio-website-)
-     - [✍🏻 The Portfolio Making Process](#-the-portfolio-making-process)  
-   * [🌎 My Globe Web App](#-my-globe-web-app)
-     - [👨🏼‍💻 The Blender & Three.js Learning Process](#-the-blender--three.js-learning-process)
-   * [🍎 My Swift Projects](#-my-swift-projects)
-     - [💭 Ponder: Lucid Dream Journal](#-ponder-lucid-dream-journal)
-     - [🤖 Watch AI: AI on your wrist]()
-     - [🌐 Liminal: AI web browser for Apple Watch]()
-     - [📌 Pin It! — Location Counter]()
-     - [👨🏼‍💻 Swift Student Challenge 2023]()
-     - [👔 Meeting Recorder]()
-     - [🎼 Spotify Buddy]()
-2. [Contact Information](#contact-information)  
+   1. [🎶 My Interactive Portfolio Website 🏡](#-my-interactive-portfolio-website-)
+      - [✍🏻 The Portfolio Making Process](#-the-portfolio-making-process)  
+   2. [🌎 My Globe Web App](#-my-globe-web-app)
+      - [👨🏼‍💻 The Blender & Three.js Learning Process](#-the-blender--three.js-learning-process)
+   3. [🍎 My Swift Projects](#-my-swift-projects)
+      - [💭 Ponder: Lucid Dream Journal](#-ponder-lucid-dream-journal)
+      - [🤖 Watch AI: AI on your wrist]()
+      - [🌐 Liminal: AI web browser for Apple Watch]()
+      - [📌 Pin It! — Location Counter]()
+      - [👨🏼‍💻 Swift Student Challenge 2023]()
+      - [👔 Meeting Recorder]()
+      - [🎼 Spotify Buddy]()
+2. [A Look Into My Professional Life](#-a-look-into-my-professional-life)  
+   1. [7 Years of Christian-Arabic Tutoring at Third Church RVA](#7-years-of-christian-arabic-tutoring-at-third-church-rva)
+   2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
+   3. [Internship with The Browser Company of NYC 👀 (?)](#internship-with-the-browser-company-of-nyc-please)
+3. [Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
 
@@ -50,14 +54,14 @@ As I mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-makin
 This collection of SwiftUI apps is extremely special to me and each represents an unbelievable amount of man-hours. The first apps listed have been published on the App Store (except for Ponder, but it's extremely close to being finished). Each of these apps also represents a huge learning experience for me as each used a new technology or framework to complete.
 
 #### 💭 Ponder: Lucid Dream Journal
-➡️[Showcase images/videos here]()
+➡️ [Showcase images/videos here]()
 
 This app has been by far my most challenging project incorporating a ton of technologies, design challenges, and planning. My original idea for this app came from my need for an organized dream journal that Apple's notes app didn't have—also I love building apps, so I decided I had to make Ponder. Since then, I learned Figma, which was huge for me as I had wanted to learn it for the entirety of my app-making "career." Figma was a huge step forward for my ability to plan and prototype UI/UX elements, far far better than my previous pencil and notepad (which wasn't actually all that bad). For Ponder, I decided to make a [wireframe prototype](https://www.figma.com/file/1Ussz1ZcWqnENtqK7Cqn2b/ponder?type=whiteboard&node-id=0-1) and a [fully fleshed-out prototype](https://www.figma.com/file/HFnIbqpI2WOGnquCQjvPt4/Ponder?type=design&node-id=113-7&mode=design) in Figma where small changes were made between each. From the designs in Figma, I started to build the app as I started my first at Virginia Tech. I still remember finishing my first day of Swift coding for Ponder in the Torgesen library bridge—it was a truly humbling experience trying to figure out SwiftUI's Path objects and the unreasonably annoying addArc() method. Since then, I have made fairly steady progress on Ponder, including the logo design, some motion design projects for Ponder, and graphic design posters. The development of Ponder has been, although very difficult, incredibly rewarding as I look back and see how far my designs, visions, and progression of Ponder have come. The app has firmly cemented my dream of becoming a design-focused full-stack developer. As I look forward, I also hope to see Ponder acquire the success that I believe it deserves!
 
 #### 🤖 Watch AI: AI on your wrist
 ➡️ [Showcase images/videos here]()
 
-Watch AI was a big step in my SwiftUI development journey as it proved that code wasn't just a hobby for me, but could also be a source of legitimate income. This was also a great sign for my parents as the 12-hour programming grinds they occasionally grouched over weren't completely useless. This app was the brainchild of an idea I had in the middle of a senior-year history class a few weeks after OpenAI released ChatGPT of having an AI on my Apple Watch (Siri doesn't count). Following that idea, and since my senior year in high school was fairly easy following my contrastingly grueling junior year, I started working on the app and had it completed around 4 or 5ish months later. The app was super interesting to develop as I had to use lots of tricks to introduce features I felt were necessary for the app to have. For example, a live dictation feature separate from that of Apple's built-in dictation feature to allow users to automatically start asking their prompt on wake. After publishing the app, I had to eventually include a subscription model for Watch AI as the API costs for OpenAI's Davinci model were far too high to come out of my pockets. This is where the "not just a hobby" realization comes in, and Watch AI ended up making me a decent chunk of passive income (and still does to this day). Watch AI not only introduced the idea of SaaS and Swift for Apple Watch to me but also introduced the idea of marketing. This is where I felt like I had the biggest breakthrough at the time, and I was able to develop some somewhat cringeworthy but decent (?) ads that have been archived on my Instagram. Overall, Watch AI was a huge stepping stone for me, however, since its release I've felt a strong need to update the app as changes to OpenAI's API and new models have broken pieces of the app.
+Watch AI was a big step in my SwiftUI development journey as it proved that code wasn't just a hobby for me, but could also be a source of legitimate income. This was also a great sign for my parents as the 12-hour programming grinds they occasionally grouched over weren't completely useless. This app was the brainchild of an idea I had in the middle of a senior-year history class a few weeks after OpenAI released ChatGPT of having an AI on my Apple Watch (Siri doesn't count). Following that idea, and since my senior year in high school was fairly easy following my contrastingly grueling junior year, I started working on the app and had it completed around 4 or 5ish months later. The app was super interesting to develop as I had to use lots of tricks to introduce features I felt were necessary for the app to have. For example, a live dictation feature is separate from Apple's built-in dictation feature to allow users to automatically start asking their prompt on wake. After publishing the app, I had to eventually include a subscription model for Watch AI as the API costs for OpenAI's Davinci model were far too high to come out of my pockets. This is where the "not just a hobby" realization comes in, and Watch AI ended up making me a decent chunk of passive income (and still does to this day). Watch AI not only introduced the idea of SaaS and Swift for Apple Watch to me but also introduced the idea of marketing. This is where I felt like I had the biggest breakthrough at the time, and I was able to develop some somewhat cringeworthy but decent (?) ads that have been archived on my Instagram. Overall, Watch AI was a huge stepping stone for me, however, since its release I've felt a strong need to update the app as changes to OpenAI's API and new models have broken pieces of the app.
 
 #### 🌐 Liminal: AI web browser for Apple Watch 
 ➡️ [Showcase images/videos here]()
@@ -67,10 +71,32 @@ Liminal was a smaller step for me and was overshadowed quite heavily by Watch AI
 #### 📌 Pin It! — Location Counter
 ➡️ [Showcase images/videos here]()
 
-Initially as a joke, Pin It was so incredibly fun to work on as I was able to explore similar design styles and techniques as mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-making-process). However, I want to preface that Pin It is objectively not good in how it works. When it works it either requires the user to keep the app on when counting a location or is resource-intensive when counting visits in the background. Unfortunately, this wasn't something I had worried about at the time, but it has kind of come back to bite me in the ass. Either way, I believe Pin It is an interesting case study into my second attempt at alternative UI/UX design with its Duolingo-esque flat 3D styling. On top of this, it was an interesting look into the inner workings of Apple's Map API and developing apps that can help users interact and blend elements of the real world with technology. Also, this was my first app published on the App Store, so it will always hold a special place in my heart. The rush of seeing the "The status of Pin it! — Location Counter has changed to approved" will never live itself down in my mind.
+Initially as a joke, Pin It was so incredibly enjoyable to work on as I was able to explore similar design styles and techniques as mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-making-process). However, I want to preface that Pin It is objectively not good in how it works. When it works it either requires the user to keep the app on when counting a location or is resource-intensive when counting visits in the background. Unfortunately, this wasn't something I had worried about at the time, but it has kind of come back to bite me in the ass. Either way, I believe Pin It is an interesting case study into my second attempt at alternative UI/UX design with its Duolingo-esque flat 3D styling. On top of this, it was an interesting look into the inner workings of Apple's Map API and developing apps that can help users interact and blend elements of the real world with technology. Also, this was my first app published on the App Store, so it will always hold a special place in my heart. The rush of seeing the "The status of Pin it! — Location Counter has changed to approved" will never live itself down in my mind.
 
 #### 👨🏼‍💻 Swift Student Challenge 2023
 ➡️ [Showcase images, videos, & source code here]()
+
+
+
+#### 👔 Meeting Recorder 
+➡️ [Showcase images, videos, & source code here]()
+
+
+
+#### 🎼 Spotify Buddy 
+➡️ [Showcase images, videos, & source code here]()
+
+
+
+## 🕵🏼‍♂️ A Look Into My Professional Life
+
+### IT Internship at Emsco Inc.
+
+
+### 7 Years of Christian-Arabic Tutoring at Third Church RVA
+
+
+### Internship with The Browser Company of NYC (?) (Please)
 
 
 
