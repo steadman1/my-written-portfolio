@@ -6,10 +6,10 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
 
 ## Contents
 
-[My Highlighted Works](#my-skills Shown Through Projects (Highlighted Works))  
+[My Skills—Through Projects](#my-skills-shown-through-projects)  
 [Contact Information](#contact-information)  
 
-## My Skills Shown Through Projects (Highlighted Works)
+## My Skills Shown Through Projects
 
 ### 🎶 My Interactive Portfolio Website 🏡
 ➡️ [spencersteadman.com](https://www.spencersteadman.com)  
