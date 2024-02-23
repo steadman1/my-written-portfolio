@@ -6,7 +6,7 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
 
 ## Contents
 
-[My Highlighted Works](#)  
+[My Highlighted Works](#my-skills Shown Through Projects (Highlighted Works))  
 [Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects (Highlighted Works)
