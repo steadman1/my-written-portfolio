@@ -87,19 +87,24 @@ During my high school junior year, notably following the COVID-19 quarantine yea
 
 #### 🎼 Spotify Buddy 
 ➡️ [Showcase images/videos here]()  
-➡️ [Source code here]()
+➡️ [Source code here](https://github.com/steadman1/Spotify-Buddy/tree/main)
 
-
+As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), Spotify Buddy was written in Dart in combination with the Flutter SDK developed by Google. Although I absolutely loved working with Flutter in Spotify Buddy and a load of other test apps, I decided to make my switch to Swift as I found myself not using the suite of cross-platform features Flutter offered. Instead, I found myself targeting iOS and justifying my use of Flutter over Swift with "I could compile my apps onto Android and the Web" despite never doing so. After researching and exploring Swift5 and SwiftUI, I decided the switch from Flutter to Swift would be worth it since I already had a Mac and it would streamline my entire workflow. Plus, I wouldn't have to deal with XCode's constant throwing of random non-descript errors when working with Flutter. Back to Spotify Buddy, though, it was a pretty huge project for me at the time as I had previously only made small little test apps in Flutter. In contrast, this was a fully fledged, two week long project that had my focus working overtime. The process of writing the app was amazing, and, to this day, I loved working in Dart. With its similarity to Typescript, I believe it's a fantastic, familiar language with very beautiful syntax. Overall, Spotify Buddy was the push that got my love for mobile development rolling. For the app itself, I enjoyed the final product, and, to my surprise, I had many people hyping it up like crazy. Looking forward, I see a possible remake in the future 👀.
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
 ### IT Internship at Emsco Inc.
+➡️ [Find them here!](https://emsco-inc.com/)
 
+My 2023-2024 winter internship with Emsco was a fantastic learning experience that helped me develop a ton of technical and professional skills during my time with them. To preface, though, Emsco Inc. is a wire harness and PCB manufacturing company based in Ashland, VA, right outside of my hometown. Working as an IT intern for Emsco was an incredible exploration of a load of vital computer science concepts like data-structures, for example, and how we should approach implementing them in the workplace. My time with Emsco also required me to gain a strong understanding of Excel, PowerQuery, and Visual Basic. On top of this, prototyping ideas on paper and in Python became a constant before implementing them into our Excel Macros (mostly because VBA kinda sucks but thats beside the point). My time as Emsco was also a great learning experience in communication between my colleagues. Since my job was mostly discussing issues, bugs, and ideas and implementing them for my co-workers, I quickly picked up and understood the importance of strong communication skills and the idea of "failing small." This "failing small" philosophy was big around the office, and especially in IT, as modifications sometimes broke things that should never break. For example, we would often make small changes before consulting our colleagues to ensure our implementations were on the right track. This ensured a constantly efficient workflow where no time was wasted. Although this philosophy may seem somewhat of obvious or straight forward, it was absolutely vital to keep the company's operation flowing smoothly without sudden issues arising.
 
 ### 7 Years of Christian-Arabic Tutoring at Third Church RVA
+➡️ [Find Third Church here!](https://www.thirdrva.org/)
+➡️ [Find the tutoring program here!](https://www.thirdrva.org/refugee-tutoring)
 
+As a seven-year volunteer tutor at Third Church RVA, I had the privilege of teaching Christian Arabic students. During this experience, I focused heavily on providing each tutoree, most of whom were ESL students, help with English as well as general academic support. With my diligent approach to tutoring, I enjoyed actively engaging with each tutoree encouraging each to develop a strong sense of curiosity and deep understanding of subject matters. This experience was so rewarding for me and helped me develop an incrediblely strong set of communication skills. On top of this, Christian-Arabic tutoring embeded the importance of diversity in the workplace within me. Where most just see a group of colleagues, I see a team of individuals who each bring nuanced perspectives and uniques strengths to the table, collectively capable of developing innovative solutions and fostering a strong collaborative spirit.
 
-### Internship with The Browser Company of NYC (?)
+### 👀 A Position With Your Company (?)
 
 
 
