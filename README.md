@@ -1,7 +1,7 @@
 # Hi, I'm Spencer Steadman.
 
 ## Who Am I?
-Hi, I'm Spencer Steadman—an independent software engineer and student at Virginia Tech. As a student, and throughout my five years of programming, I have grown to love the process of learning and expressing my creativity through artistic mediums. Whether these mediums are code, graphic design, 3D design, etc., the projects I have been able to complete express my diverse skill sets in design and problem-solving. With these skills, I want to be part of a team of like-minded design-focused individuals. For more technical and experiential information, my LinkedIn has plenty more information about me: [Spencer Steadman—About](https://www.linkedin.com/in/spencer-steadman-642b38269/#About).  
+Hi, I'm Spencer Steadman—an independent, self-taught software engineer and student at Virginia Tech. As a student, and throughout my five years of programming, I have grown to love the process of learning and expressing my creativity through artistic mediums. Whether these mediums are code, graphic design, 3D design, etc., the projects I have been able to complete express my diverse skill sets in design and problem-solving. With these skills, I want to be part of a team of like-minded design-focused individuals. For more technical and experiential information, my LinkedIn has plenty more information about me: [Spencer Steadman—About](https://www.linkedin.com/in/spencer-steadman-642b38269/#About).  
 Now for a more personal introduction! I'm Spencer Steadman—an athlete and self-proclaimed music connoisseur (my favorite artists being Steely Dan, Daft Punk, Radiohead. and The Beatles—check out [my Spotify](https://open.spotify.com/user/s_steadman) for more 🌞). Growing up surrounded by music, I quickly gained my passion for creativity and analytical thinking as my brother and Dad would discuss each piece of every song. Through athletics, mainly running and swimming, I also developed a strong desire and ability to push myself in all fields. In my free time, I enjoy working on small design projects, iOS apps, occasionally some creative writing essays, and daydreaming about the beach.
 
 ## Contents
@@ -9,19 +9,19 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
    1. [🎶 My Interactive Portfolio Website 🏡](#-my-interactive-portfolio-website-)
       - [✍🏻 The Portfolio Making Process](#-the-portfolio-making-process)  
    2. [🌎 My Globe Web App](#-my-globe-web-app)
-      - [👨🏼‍💻 The Blender & Three.js Learning Process](#-the-blender--three.js-learning-process)
+      - [👨🏼‍💻 The Blender & Three.js Learning Process](#-the-blender--threejs-learning-process)
    3. [🍎 My Swift Projects](#-my-swift-projects)
       - [Ponder: Lucid Dream Journal](#-ponder-lucid-dream-journal)
-      - [Watch AI: AI on your wrist]()
-      - [Liminal: AI web browser for Apple Watch]()
-      - [Pin It! — Location Counter]()
-      - [Swift Student Challenge 2023]()
-      - [MR Alpha: Meeting Recorder]()
-      - [Spotify Buddy]()
-2. [A Look Into My Professional Life](#-a-look-into-my-professional-life)  
+      - [Watch AI: AI on your wrist](#-watch-ai-ai-on-your-wrist)
+      - [Liminal: AI web browser for Apple Watch](#-liminal-ai-web-browser-for-apple-watch)
+      - [Pin It! — Location Counter](#-pin-it--location-counter)
+      - [Swift Student Challenge 2023](#-swift-student-challenge-2023)
+      - [MR Alpha: Meeting Recorder](#-mr-alpha-meeting-recorder)
+      - [Spotify Buddy](#-spotify-buddy)
+2. [A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [7 Years of Christian-Arabic Tutoring at Third Church RVA](#7-years-of-christian-arabic-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
-   3. [Internship with The Browser Company of NYC 👀 (?)](#internship-with-the-browser-company-of-nyc-)
+   3. [A Position with Your Company 👀 (?)](#a-position-with-your-company--)
 3. [Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
@@ -94,7 +94,7 @@ As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
 ### IT Internship at Emsco Inc.
-➡️ [Find them here!](https://emsco-inc.com/)
+➡️ [Find Emsco Inc. here!](https://emsco-inc.com/)
 
 My 2023-2024 winter internship with Emsco was a fantastic learning experience that helped me develop a ton of technical and professional skills during my time with them. To preface, though, Emsco Inc. is a wire harness and PCB manufacturing company based in Ashland, VA, right outside of my hometown. Working as an IT intern for Emsco was an incredible exploration of a load of vital computer science concepts like data-structures, for example, and how we should approach implementing them in the workplace. My time with Emsco also required me to gain a strong understanding of Excel, PowerQuery, and Visual Basic. On top of this, prototyping ideas on paper and in Python became a constant before implementing them into our Excel Macros (mostly because VBA kinda sucks but thats beside the point). My time as Emsco was also a great learning experience in communication between my colleagues. Since my job was mostly discussing issues, bugs, and ideas and implementing them for my co-workers, I quickly picked up and understood the importance of strong communication skills and the idea of "failing small." This "failing small" philosophy was big around the office, and especially in IT, as modifications sometimes broke things that should never break. For example, we would often make small changes before consulting our colleagues to ensure our implementations were on the right track. This ensured a constantly efficient workflow where no time was wasted. Although this philosophy may seem somewhat of obvious or straight forward, it was absolutely vital to keep the company's operation flowing smoothly without sudden issues arising.
 
@@ -104,7 +104,7 @@ My 2023-2024 winter internship with Emsco was a fantastic learning experience th
 
 As a seven-year volunteer tutor at Third Church RVA, I had the privilege of teaching Christian Arabic students. During this experience, I focused heavily on providing each tutoree, most of whom were ESL students, help with English as well as general academic support. With my diligent approach to tutoring, I enjoyed actively engaging with each tutoree encouraging each to develop a strong sense of curiosity and deep understanding of subject matters. This experience was so rewarding for me and helped me develop an incrediblely strong set of communication skills. On top of this, Christian-Arabic tutoring embeded the importance of diversity in the workplace within me. Where most just see a group of colleagues, I see a team of individuals who each bring nuanced perspectives and uniques strengths to the table, collectively capable of developing innovative solutions and fostering a strong collaborative spirit.
 
-### 👀 A Position With Your Company (?)
+### A Position With Your Company 👀 (?)
 
 
 
