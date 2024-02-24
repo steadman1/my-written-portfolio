@@ -11,17 +11,17 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
    2. [🌎 My Globe Web App](#-my-globe-web-app)
       - [👨🏼‍💻 The Blender & Three.js Learning Process](#-the-blender--three.js-learning-process)
    3. [🍎 My Swift Projects](#-my-swift-projects)
-      - [💭 Ponder: Lucid Dream Journal](#-ponder-lucid-dream-journal)
-      - [🤖 Watch AI: AI on your wrist]()
-      - [🌐 Liminal: AI web browser for Apple Watch]()
-      - [📌 Pin It! — Location Counter]()
-      - [👨🏼‍💻 Swift Student Challenge 2023]()
-      - [👔 Meeting Recorder]()
-      - [🎼 Spotify Buddy]()
+      - [Ponder: Lucid Dream Journal](#-ponder-lucid-dream-journal)
+      - [Watch AI: AI on your wrist]()
+      - [Liminal: AI web browser for Apple Watch]()
+      - [Pin It! — Location Counter]()
+      - [Swift Student Challenge 2023]()
+      - [MR Alpha: Meeting Recorder]()
+      - [Spotify Buddy]()
 2. [A Look Into My Professional Life](#-a-look-into-my-professional-life)  
    1. [7 Years of Christian-Arabic Tutoring at Third Church RVA](#7-years-of-christian-arabic-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
-   3. [Internship with The Browser Company of NYC 👀 (?)](#internship-with-the-browser-company-of-nyc--please)
+   3. [Internship with The Browser Company of NYC 👀 (?)](#internship-with-the-browser-company-of-nyc-)
 3. [Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
@@ -74,14 +74,16 @@ Liminal was a smaller step for me and was overshadowed quite heavily by Watch AI
 Initially as a joke, Pin It was so incredibly enjoyable to work on as I was able to explore similar design styles and techniques as mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-making-process). However, I want to preface that Pin It is objectively not good in how it works. When it works it either requires the user to keep the app on when counting a location or is resource-intensive when counting visits in the background. Unfortunately, this wasn't something I had worried about at the time, but it has kind of come back to bite me in the ass. Either way, I believe Pin It is an interesting case study into my second attempt at alternative UI/UX design with its Duolingo-esque flat 3D styling. On top of this, it was an interesting look into the inner workings of Apple's Map API and developing apps that can help users interact and blend elements of the real world with technology. Also, this was my first app published on the App Store, so it will always hold a special place in my heart. The rush of seeing the "The status of Pin it! — Location Counter has changed to approved" will never live itself down in my mind.
 
 #### 👨🏼‍💻 Swift Student Challenge 2023
-➡️ [Showcase images, videos, & source code here]()
+➡️ [Showcase images/videos here]()
+➡️ [Source code here](https://github.com/steadman1/mr-alpha)
 
 My idea for my 2023 Swift Student Challenge application was an AR sandbox physics app that would allow users to interact with virtual 3D objects in their real environment. With this app, I aimed to appeal to the Apple judges with the AR as there were rumors that the Vision Pro (unnamed at the time) was going to come out soon. In the end, I unfortunately missed the submission deadline as I was adamant to make the app as perfect as I could which sounds so incredibly stupid as I read it back. Overall though, the app was pretty cool, but it probably wouldn't have won or gotten much recognition as the features I had implemented by the deadline weren't super groundbreaking. 
 
-#### 👔 Meeting Recorder 
-➡️ [Showcase images, videos, & source code here]()
+#### 👔 MR Alpha: Meeting Recorder 
+➡️ [Showcase images/videos here]()
+➡️ [Source code here](https://github.com/steadman1/mr-alpha)
 
-During my high school junior year, notably following COVID, 
+During my high school junior year, notably following the COVID-19 quarantine year, missing classes was a common occurrence among my classmates as COVID paranoia raged. Even though I was lucky enough to keep the sickness away, I saw plenty of my peers fall behind—a big change from the year prior, my entirely virtual sophomore year, where all of our online classes were recorded. On top of this, being sick didn't really affect our abilities to open up our laptops and log in to class anyway. So, as many of my classmates vanished from class as they were forced to quarantine, recording classes became a similarly common occurrence. However, simple recordings wasn't enough for me. So, I came up with the idea to develop an app that would instantly share transcribed, searchable recordings with groups of your choosing. MR Alpha, as I called it, was an incredibly exciting project that had a ton of practicality to it. From the UI to the codebase, at the time, this project was a huge development for me as, following my [Spotify Buddy(#-spotify-buddy) project, it was something I saw myself and others legitmately using consistantly. Unfortunately, I was unable to publish this app as the firebase API costs and Apple's $100 Apple Developer Account fee was far too steep for me. However, it stayed in use among my classmates which was so rewarding to see. Looking back, I'm still very proud of what I created with MR Alpha even though the UI/UX is somewhat questionable to me now.
 
 #### 🎼 Spotify Buddy 
 ➡️ [Showcase images, videos, & source code here]()
@@ -96,7 +98,7 @@ During my high school junior year, notably following COVID,
 ### 7 Years of Christian-Arabic Tutoring at Third Church RVA
 
 
-### Internship with The Browser Company of NYC (?) (Please)
+### Internship with The Browser Company of NYC (?)
 
 
 
