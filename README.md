@@ -42,13 +42,13 @@ As I mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-makin
 
 
 ### 🍎 My Swift Projects
-➡️ [Ponder: Lucid Dream Journal]()  
-➡️ [Watch AI: AI on your wrist]()  
-➡️ [Liminal: AI web browser for Apple Watch]()  
-➡️ [Pin It! — Location Counter]()  
-➡️ [Swift Student Challenge 2023]()  
-➡️ [Meeting Recorder]()  
-➡️ [Spotify Buddy]()  
+➡️ [Ponder: Lucid Dream Journal](#-ponder-lucid-dream-journal)  
+➡️ [Watch AI: AI on your wrist](#-watch-ai-ai-on-your-wrist)  
+➡️ [Liminal: AI web browser for Apple Watch](#-liminal-ai-web-browser-for-apple-watch)  
+➡️ [Pin It! — Location Counter](#-pin-it--location-counter)  
+➡️ [Swift Student Challenge 2023](#-swift-student-challenge-2023)  
+➡️ [Meeting Recorder](#-mr-alpha-meeting-recorder)  
+➡️ [Spotify Buddy](#-spotify-buddy)  
 (^ Spotify Buddy was actually written in Dart in combo with Flutter, but I felt that making an entire section for Flutter was unnecessary)
 
 This collection of SwiftUI apps is extremely special to me and each represents an unbelievable amount of man-hours. The first few apps listed have been published on the App Store (except for Ponder, but it's extremely close to being finished). Each of these apps also represents a huge learning experience for me as each used a new technology or framework to complete.
@@ -102,7 +102,7 @@ My 2023-2024 winter internship with Emsco was a fantastic learning experience th
 ➡️ [Find Third Church here!](https://www.thirdrva.org/)
 ➡️ [Find the tutoring program here!](https://www.thirdrva.org/refugee-tutoring)
 
-As a seven-year volunteer tutor at Third Church RVA, I had the privilege of teaching Christian Arabic students. During this experience, I focused heavily on providing each tutoree, most of whom were ESL students, help with English as well as general academic support. With my diligent approach to tutoring, I enjoyed actively engaging with each tutoree encouraging each to develop a strong sense of curiosity and deep understanding of subject matters. This experience was so rewarding for me and helped me develop an incrediblely strong set of communication skills. On top of this, Christian-Arabic tutoring embeded the importance of diversity in the workplace within me. Where most just see a group of colleagues, I see a team of individuals who each bring nuanced perspectives and uniques strengths to the table, collectively capable of developing innovative solutions and fostering a strong collaborative spirit.
+As a seven-year volunteer tutor at Third Church RVA, I had the privilege of teaching Christian Arabic students. During this experience, I focused heavily on providing each tutoree, most of whom were ESL students, help with English as well as general academic support. With my diligent approach to tutoring, I enjoyed actively engaging with each tutoree encouraging each to develop a strong sense of curiosity and deep understanding of subject matters. This experience was so rewarding for me and helped me develop an incrediblely strong set of communication skills. On top of this, Christian-Arabic tutoring embeded the importance of diversity in the workplace within me. Where most just see a group of colleagues, I see a team of individuals who each bring nuanced perspectives and uniques strengths to the table, collectively capable of developing innovative solutions and fostering a strong collaborative spirit. Small side note: some of my tutorees in the tutoring program actually helped me translate part of my [Watch AI](#-watch-ai-ai-on-your-wrist) app into Arabic which was a ton of fun!
 
 ### A Position With Your Company 👀 (?)
 
