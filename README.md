@@ -21,7 +21,7 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
 2. [A Look Into My Professional Life](#-a-look-into-my-professional-life)  
    1. [7 Years of Christian-Arabic Tutoring at Third Church RVA](#7-years-of-christian-arabic-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
-   3. [Internship with The Browser Company of NYC 👀 (?)](#internship-with-the-browser-company-of-nyc-please)
+   3. [Internship with The Browser Company of NYC 👀 (?)](#internship-with-the-browser-company-of-nyc--please)
 3. [Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
