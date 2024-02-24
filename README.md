@@ -76,12 +76,12 @@ Initially as a joke, Pin It was so incredibly enjoyable to work on as I was able
 #### 👨🏼‍💻 Swift Student Challenge 2023
 ➡️ [Showcase images, videos, & source code here]()
 
-
+My idea for my 2023 Swift Student Challenge application was an AR sandbox physics app that would allow users to interact with virtual 3D objects in their real environment. With this app, I aimed to appeal to the Apple judges with the AR as there were rumors that the Vision Pro (unnamed at the time) was going to come out soon. In the end, I unfortunately missed the submission deadline as I was adamant to make the app as perfect as I could which sounds so incredibly stupid as I read it back. Overall though, the app was pretty cool, but it probably wouldn't have won or gotten much recognition as the features I had implemented by the deadline weren't super groundbreaking. 
 
 #### 👔 Meeting Recorder 
 ➡️ [Showcase images, videos, & source code here]()
 
-
+During my high school junior year, notably following COVID, 
 
 #### 🎼 Spotify Buddy 
 ➡️ [Showcase images, videos, & source code here]()
