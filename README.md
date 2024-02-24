@@ -51,7 +51,7 @@ As I mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-makin
 ➡️ [Spotify Buddy]()  
 (^ Spotify Buddy was actually written in Dart in combo with Flutter, but I felt that making an entire section for Flutter was unnecessary)
 
-This collection of SwiftUI apps is extremely special to me and each represents an unbelievable amount of man-hours. The first apps listed have been published on the App Store (except for Ponder, but it's extremely close to being finished). Each of these apps also represents a huge learning experience for me as each used a new technology or framework to complete.
+This collection of SwiftUI apps is extremely special to me and each represents an unbelievable amount of man-hours. The first few apps listed have been published on the App Store (except for Ponder, but it's extremely close to being finished). Each of these apps also represents a huge learning experience for me as each used a new technology or framework to complete.
 
 #### 💭 Ponder: Lucid Dream Journal
 ➡️ [Showcase images/videos here]()
