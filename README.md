@@ -99,7 +99,7 @@ This collection of design projects of mine are mostly a creative outlet for me r
 
 #### The Ponder Logo
 <p align="center">
-   <img src="/Ponder Design Showcase/ponder_bubbly_icon_rounded.png" width="128"/>
+   <img src="/Ponder Design Showcase/ponder_bubbly_icon_rounded.png" width="256"/>
 </p>
 
 #### A Ponder Motion Design Project
@@ -130,7 +130,7 @@ This design project was super refreshing as it helped me stay creative and produ
 
 #### Saturn’s Ring Highway
 <p align="center">
-   <img src="/Blender Showcase/wallpaper_mac.png" width="128"/>
+   <img src="/Blender Showcase/wallpaper_mac.png" width="256"/>
 </p>
 
 #### The French Touch
@@ -142,9 +142,9 @@ This design project was super refreshing as it helped me stay creative and produ
 
 #### The Ford Bronco
 <p align="center">
-   <img src="/Blender Showcase/Ford Bronco/IMG_9550.JPG" width="128"/>
-   <img src="/Blender Showcase/Ford Bronco/IMG_9549.JPG" width="128"/>
-   <img src="/Blender Showcase/Ford Bronco/IMG_9514.jpg" width="128"/>
+   <img src="/Blender Showcase/Ford Bronco/IMG_9550.JPG" width="256"/>
+   <img src="/Blender Showcase/Ford Bronco/IMG_9549.JPG" width="256"/>
+   <img src="/Blender Showcase/Ford Bronco/IMG_9514.jpg" width="256"/>
 </p>
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
