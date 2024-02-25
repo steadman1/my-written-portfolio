@@ -130,7 +130,7 @@ This design project was super refreshing as it helped me stay creative and produ
 
 #### Saturn’s Ring Highway
 <p align="center">
-   <img src="/Blender Showcase/wallpaper_mac.png" width="256"/>
+   <img src="/Blender Showcase/wallpaper_mac.png" width="512"/>
 </p>
 
 #### The French Touch
