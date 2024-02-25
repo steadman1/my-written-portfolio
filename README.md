@@ -91,9 +91,42 @@ During my high school junior year, notably following the COVID-19 quarantine yea
 ➡️ [Showcase images/videos here]()  
 ➡️ [Source code here](https://github.com/steadman1/Spotify-Buddy/tree/main)
 
-As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), Spotify Buddy was written in Dart in combination with the Flutter SDK developed by Google. Although I absolutely loved working with Flutter in Spotify Buddy and a load of other test apps, I decided to make my switch to Swift as I found myself not using the suite of cross-platform features Flutter offered. Instead, I found myself targeting iOS and justifying my use of Flutter over Swift with "I could compile my apps onto Android and the Web" despite never doing so. After researching and exploring Swift5 and SwiftUI, I decided the switch from Flutter to Swift would be worth it since I already had a Mac and it would streamline my entire workflow. Plus, I wouldn't have to deal with XCode's constant throwing of random non-descript errors when working with Flutter. Back to Spotify Buddy, though, it was a pretty huge project for me at the time as I had previously only made small test apps in Flutter. In contrast, this was a fully-fledged, two-week-long project that had my focus working overtime. The process of writing the app was amazing, and, to this day, I love working in Dart. With its similarity to Typescript, I believe it's a fantastic, familiar language with very beautiful syntax. Overall, Spotify Buddy was the push that got my love for mobile development rolling. For the app itself, I enjoyed the final product, and, to my surprise, I had many people hyping it up like crazy. Looking forward, I see a possible remake in the future 👀.
+As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), Spotify Buddy was written in Dart in combination with the Flutter SDK developed by Google. Although I absolutely loved working with Flutter in Spotify Buddy and a load of other test apps, I decided to make my switch to Swift as I found myself not using the suite of cross-platform features Flutter offered. Instead, I found myself targeting iOS and justifying my use of Flutter over Swift with "I could compile my apps onto Android and the Web" despite never doing so. After researching and exploring Swift 5 and SwiftUI, I decided the switch from Flutter to Swift would be worth it since I already had a Mac and it would streamline my entire workflow. Plus, I wouldn't have to deal with XCode's constant throwing of random non-descript errors when working with Flutter. Back to Spotify Buddy, though, it was a pretty huge project for me at the time as I had previously only made small test apps in Flutter. In contrast, this was a fully-fledged, two-week-long project that had my focus working overtime. The process of writing the app was amazing, and, to this day, I love working in Dart. With its similarity to Typescript, I believe it's a fantastic, familiar language with very beautiful syntax. Overall, Spotify Buddy was the push that got my love for mobile development rolling. For the app itself, I enjoyed the final product, and, to my surprise, I had many people hyping it up like crazy. Looking forward, I see a possible remake in the future 👀.
 
 ### 👨🏼‍🎨 My Design Projects
+
+#### The Ponder Logo
+➡️ 
+
+
+#### A Ponder Motion Design Project
+
+#### The Ponder Poster Collection
+<p align="center">
+   <img src="/Ponder Design Showcase/Sweet_Dreams_(Sony_Walkman_Parody).png" width="128"/>
+   <img src="/Ponder Design Showcase/Dreams_Talk_(WSJ_Parody).png" width="128"/>
+   <img src="/Ponder Design Showcase/Dreams_Take_Flight_(Corn_Flakes_Parody).png" width="128"/>
+   <img src="/Ponder Design Showcase/Hold_The_Future_(Sony_Radio_Parody).png" width="128"/>
+   <img src="/Ponder Design Showcase/Dont_Let_Dreams_Fleet.png" width="128"/>
+</p>
+
+This design project was super refreshing as it helped me stay creative and productive during a break I took from programming the [Ponder app]((#-ponder-lucid-dream-journal)). Each of the posters, designed in Photoshop, came out looking fantastic—each with a bit of humor as they attempt to parody popular 70's - 80's ads. My favorite was by far the "With Ponder, any dream can take flight." poster. From its colors, typography, and graphics, the poster takes on the exact vintage feel that I aimed to achieve. These posters also double as ads themselves too, so the whole creation process was a win-win—a fun creative outlet combined with a source of publicity for Ponder when its full release drops.
+
+#### Dream Tapes
+
+#### A Katana and Knights Helmet
+
+#### A DeLorean
+
+#### Spoon Catapult
+
+#### Saturn’s Ring Highway
+
+#### The French Touch
+
+#### Backyard In a Blue Void
+
+#### The Ford Bronco
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
