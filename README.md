@@ -142,8 +142,8 @@ This design project was super refreshing as it helped me stay creative and produ
 
 #### The Ford Bronco
 <p align="center">
-   <img src="/Blender Showcase/Ford Bronco/IMG_9550.JPG" width="256"/>
-   <img src="/Blender Showcase/Ford Bronco/IMG_9549.JPG" width="256"/>
+   <img src="/Blender Showcase/Ford Bronco/IMG_9550.JPG" width="300"/>
+   <img src="/Blender Showcase/Ford Bronco/IMG_9549.JPG" width="300"/>
    <img src="/Blender Showcase/Ford Bronco/IMG_9514.jpg" width="256"/>
 </p>
 
