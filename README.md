@@ -12,8 +12,8 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
       - [👨🏼‍💻 The Blender & Three.js Learning Process](#-the-blender--threejs-learning-process)
    3. [🍎 My Swift Projects](#-my-swift-projects)
       - [Ponder: Lucid Dream Journal](#-ponder-lucid-dream-journal)
-      - [Watch AI: AI on your wrist](#-watch-ai-ai-on-your-wrist)
-      - [Liminal: AI web browser for Apple Watch](#-liminal-ai-web-browser-for-apple-watch)
+      - [Watch AI: AI on Your Wrist](#-watch-ai-ai-on-your-wrist)
+      - [Liminal: AI Web Browser for Apple Watch](#-liminal-ai-web-browser-for-apple-watch)
       - [Pin It! — Location Counter](#-pin-it--location-counter)
       - [Swift Student Challenge 2023](#-swift-student-challenge-2023)
       - [MR Alpha: Meeting Recorder](#-mr-alpha-meeting-recorder)
@@ -21,7 +21,7 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
 2. [A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [7 Years of Christian-Arabic Tutoring at Third Church RVA](#7-years-of-christian-arabic-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
-   3. [A Position with Your Company 👀 (?)](#a-position-with-your-company--)
+   3. [A Position With Your Company 👀 (?)](#a-position-with-your-company--)
 3. [Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
@@ -58,12 +58,12 @@ This collection of SwiftUI apps is extremely special to me and each represents a
 
 This app has been by far my most challenging project incorporating a ton of technologies, design challenges, and planning. My original idea for this app came from my need for an organized dream journal that Apple's notes app didn't have—also I love building apps, so I decided I had to make Ponder. Since then, I learned Figma, which was huge for me as I had wanted to learn it for the entirety of my app-making "career." Figma was a huge step forward for my ability to plan and prototype UI/UX elements, far far better than my previous pencil and notepad (which wasn't actually all that bad). For Ponder, I decided to make a [wireframe prototype](https://www.figma.com/file/1Ussz1ZcWqnENtqK7Cqn2b/ponder?type=whiteboard&node-id=0-1) and a [fully fleshed-out prototype](https://www.figma.com/file/HFnIbqpI2WOGnquCQjvPt4/Ponder?type=design&node-id=113-7&mode=design) in Figma where small changes were made between each. From the designs in Figma, I started to build the app as I started my first at Virginia Tech. I still remember finishing my first day of Swift coding for Ponder in the Torgesen library bridge—it was a truly humbling experience trying to figure out SwiftUI's Path objects and the unreasonably annoying addArc() method. Since then, I have made fairly steady progress on Ponder, including the logo design, some motion design projects for Ponder, and graphic design posters. The development of Ponder has been, although very difficult, incredibly rewarding as I look back and see how far my designs, visions, and progression of Ponder have come. The app has firmly cemented my dream of becoming a design-focused full-stack developer. As I look forward, I also hope to see Ponder acquire the success that I believe it deserves!
 
-#### 🤖 Watch AI: AI on your wrist
+#### 🤖 Watch AI: AI on Your Wrist
 ➡️ [Showcase images/videos here]()
 
 Watch AI was a big step in my SwiftUI development journey as it proved that code wasn't just a hobby for me, but could also be a source of legitimate income. This was also a great sign for my parents as the 12-hour programming grinds they occasionally grouched over weren't completely useless. This app was the brainchild of an idea I had in the middle of a senior-year history class a few weeks after OpenAI released ChatGPT of having an AI on my Apple Watch (Siri doesn't count). Following that idea, and since my senior year in high school was fairly easy following my contrastingly grueling junior year, I started working on the app and had it completed around 4 or 5ish months later. The app was super interesting to develop as I had to use lots of tricks to introduce features I felt were necessary for the app to have. For example, a live dictation feature is separate from Apple's built-in dictation feature to allow users to automatically start asking their prompt on wake. After publishing the app, I had to eventually include a subscription model for Watch AI as the API costs for OpenAI's Davinci model were far too high to come out of my pockets. This is where the "not just a hobby" realization comes in, and Watch AI ended up making me a decent chunk of passive income (and still does to this day). Watch AI not only introduced the idea of SaaS and Swift for Apple Watch to me but also introduced the idea of marketing. This is where I felt like I had the biggest breakthrough at the time, and I was able to develop some somewhat cringeworthy but decent (?) ads that have been archived on my Instagram. Overall, Watch AI was a huge stepping stone for me, however, since its release I've felt a strong need to update the app as changes to OpenAI's API and new models have broken pieces of the app.
 
-#### 🌐 Liminal: AI web browser for Apple Watch 
+#### 🌐 Liminal: AI Web Browser for Apple Watch 
 ➡️ [Showcase images/videos here]()
 
 Liminal was a smaller step for me and was overshadowed quite heavily by Watch AI's success as Liminal was sort of only an extension of what I built with Watch AI. This section will be short because I believe that the development of Liminal was very similar to that of Watch AI. However, It helped bolster my ability to develop on Apple Watch and helped me further understand the basics of a cross-platform SwiftUI app. On top of this, Liminal does offer a legitimately useful extension of a mobile web browser on the Apple Watch with its inclusion of a chatbot to help answer questions on its limiting form factor. 
@@ -106,7 +106,7 @@ As a seven-year volunteer tutor at Third Church RVA, I had the privilege of teac
 
 ### A Position With Your Company 👀 (?)
 
-
+As I look forward, I'm so incredibly excited to see what the future holds for me. Whether it be in software or design, I'm eager to join a team of likeminded individuals where we can build both technically and socially while developing groundbreaking solutions. As I stand out from my peers with my experience and skill sets, I bring a unique blend of creativity, technical prowess, passion for innovation, and collaborative expertise. So far, my journey has been marked with the unrelenting pursuit of excellence in all fields I have explored, and it would be an extraordinary honor to share my abilities with a diverse team at the forefront of technology. Joining your company would represent an opportunity to be at the cutting edge of the market, where I can apply my skills, learn from the best, and together, push the boundaries of what's possible.
 
 ## Contact Information  
 
