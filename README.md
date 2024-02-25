@@ -20,7 +20,7 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
       - [Spotify Buddy](#-spotify-buddy)
    4. [My Design Projects]()
 2. [A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
-   1. [7 Years of Christian-Arabic Tutoring at Third Church RVA](#7-years-of-christian-arabic-tutoring-at-third-church-rva)
+   1. [7 Years of Immigrant and Refugee Tutoring at Third Church RVA](#7-years-of-christian-arabic-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
    3. [A Position With Your Company 👀 (?)](#a-position-with-your-company--)
 3. [Too Long; Didn't Read](#-too-long-didnt-read)
@@ -102,8 +102,20 @@ This collection of design projects of mine are mostly a creative outlet for me r
    <img src="/Ponder Design Showcase/ponder_bubbly_icon_rounded.png" width="256"/>
 </p>
 
+The development of Ponder has been so technically rewarding especially because of its pretty massive scope. With the creation of the logo you see above, I was able to extend Ponder from just an outwardly-facing software project to being an all encompassing design project. Overall, I'm still in love with the logo just as much as the moment I finished it. Tools I used to create it were a pencil and paper, Figma, Adobe Illustrator, and Adobe Photoshop!
+
 #### A Ponder Motion Design Project
-➡️ [Watch It on my Instagram!](https://www.instagram.com/p/Cvgt0n2g-rp/?img_index=1)
+<p align="center">
+   <img src="/Ponder Design Showcase/logo_evolution_0.jpg" width="160"/>
+   <img src="/Ponder Design Showcase/logo_evolution_1.jpg" width="160"/>
+   <img src="/Ponder Design Showcase/photoshop_animation_frame.jpg" width="160"/>
+   <img src="/Ponder Design Showcase/logo_evolution_2.jpg" width="160"/>
+</p>
+<p align="center">
+   ➡️ <a href="https://www.instagram.com/p/Cvgt0n2g-rp/?img_index=1">Watch the full animation on my Instagram!!</a>
+</p>
+
+This was another crazy extension of Ponder's scope as it involved learning a number of new softwares and design techniques. Starting with the most obvious, this project used Adobe After Effects for the motion design which was fairly easy to learn coming from Premiere Pro and Photoshop. However, it was super interesting to use Photoshop as an intermediate in this project as its usually a tool I use to finalize/entirely create projects in! On top of learning After Effects, I also learned Garage Band and the basics of sound design to add an extra layer of depth to the already solid animation! Tools I used to create it were once again a pencil and paper, Figma, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, and Garage Band!
 
 #### The Ponder Poster Collection
 <p align="center">
@@ -114,30 +126,79 @@ This collection of design projects of mine are mostly a creative outlet for me r
    <img src="/Ponder Design Showcase/Dont_Let_Dreams_Fleet.png" width="128"/>
 </p>
 
-This design project was super refreshing as it helped me stay creative and productive during a break I took from programming the [Ponder app]((#-ponder-lucid-dream-journal)). Each of the posters, designed in Photoshop, came out looking fantastic—each with a bit of humor as they attempt to parody popular 70's - 80's ads. My favorite was by far the "With Ponder, any dream can take flight." poster. From its colors, to its typography, and with its graphics, the poster takes on the exact vintage feel that I aimed to achieve. These posters also double as ads themselves too, so the whole creation process was a win-win—a fun creative outlet combined with a source of publicity for Ponder when its full release drops.
+This design project was super refreshing as it helped me stay creative and productive during a break I took from programming the [Ponder app]((#-ponder-lucid-dream-journal)). Each of the posters, designed in Photoshop, came out looking fantastic—each with a bit of humor as they attempt to parody popular 70's - 80's ads. My favorite was by far the "With Ponder, any dream can take flight." poster. From its colors, to its typography, and with its graphics, the poster takes on the exact vintage feel that I aimed to achieve. These posters also double as ads themselves too, so the whole creation process was a win-win—a fun creative outlet combined with a source of publicity for Ponder when its full release drops. Tools I used to create it were, of course, a pencil and paper, Adobe Illustrator, and Adobe Photoshop!
 
 #### Dream Tapes
-➡️ [Watch It on my Instagram!](https://www.instagram.com/p/Cvgt0n2g-rp/?img_index=1)
+<p align="center">
+   <img src="/Blender Showcase/Dream Tapes/IMG_3213.jpg" width="160"/>
+   <img src="/Blender Showcase/Dream Tapes/IMG_3214.jpg" width="160"/>
+   <img src="/Blender Showcase/Dream Tapes/IMG_3215.jpg" width="160"/>
+   <img src="/Blender Showcase/Dream Tapes/IMG_3216.jpg" width="160"/>
+</p>
+<p align="center">
+   ➡️ <a href="https://www.instagram.com/reel/CZnrkCLgWGL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full dream tapes animation on my Instagram!!</a>
+</p>
 
 #### A Katana and Knights Helmet
-➡️ [Watch It on my Instagram!](https://www.instagram.com/reel/CbL9EvKFvS6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+<p align="center">
+   <img src="/Blender Showcase/Katana and Knights Helmet/IMG_3217.jpg" width="160"/>
+   <img src="/Blender Showcase/Katana and Knights Helmet/IMG_3218.jpg" width="160"/>
+   <img src="/Blender Showcase/Katana and Knights Helmet/IMG_3219.jpg" width="160"/>
+   <img src="/Blender Showcase/Katana and Knights Helmet/IMG_3220.jpg" width="160"/>
+</p>
+<p align="center">
+   ➡️ <a href="https://www.instagram.com/reel/CbL9EvKFvS6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full katana animation on my Instagram!!</a>
+</p>
 
 #### A DeLorean
-➡️ [Watch It on my Instagram!](https://www.instagram.com/reel/CcOfYe4J9Tj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+<p align="center">
+   <img src="/Blender Showcase/DeLorean/delorean back1.PNG" width="160"/>
+   <img src="/Blender Showcase/DeLorean/delorean back3.PNG" width="160"/>
+   <img src="/Blender Showcase/DeLorean/delorean back2.PNG" width="160"/>
+   <img src="/Blender Showcase/DeLorean/delorean ring0.jpg" width="160"/>
+   <img src="/Blender Showcase/DeLorean/delorean ring3.PNG" width="160"/>
+</p>
+<p align="center">
+   ➡️ <a href="https://www.instagram.com/reel/CcOfYe4J9Tj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the DeLorean animation on my Instagram!!</a>
+</p>
 
 #### Spoon Catapult
-➡️ [Watch It on my Instagram!](https://www.instagram.com/reel/Cd3hky5FMzi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+<p align="center">
+   <img src="/Blender Showcase/Spoon Catapult/IMG_3222.jpg" width="160"/>
+   <img src="/Blender Showcase/Spoon Catapult/IMG_3223.jpg" width="160"/>
+   <img src="/Blender Showcase/Spoon Catapult/IMG_3225.jpg" width="160"/>
+   <img src="/Blender Showcase/Spoon Catapult/IMG_3226.jpg" width="160"/>
+</p>
+<p align="center">
+   ➡️ <a href="https://www.instagram.com/reel/Cd3hky5FMzi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full spoon catapult animation on my Instagram!!</a>
+</p>
 
 #### Saturn’s Ring Highway
 <p align="center">
-   <img src="/Blender Showcase/wallpaper_mac.png" width="768"/>
+   <img src="/Blender Showcase/wallpaper_mac.png" width="600"/>
 </p>
 
 #### The French Touch
-➡️ [Watch It on my Instagram!](https://www.instagram.com/p/Ca8nGnIAZXg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+<p align="center">
+   <img src="/Blender Showcase/French Touch/IMG_3227.jpg" width="196"/>
+   <img src="/Blender Showcase/French Touch/IMG_3228.jpg" width="196"/>
+   <img src="/Blender Showcase/French Touch/IMG_3229.jpg" width="196"/>
+</p>
+<p align="center">
+   <img src="/Blender Showcase/French Touch/radio close.PNG" width="196"/>
+   <img src="/Blender Showcase/French Touch/radio.PNG" width="196"/>
+</p>
+<p align="center">
+   ➡️ <a href="https://www.instagram.com/p/Ca8nGnIAZXg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full "French Touch" animation on my Instagram!!</a>
+</p>
 
 #### Backyard In a Blue Void
-➡️ [Watch It on my Instagram!](https://www.instagram.com/reel/CdTXy9HloCj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+<p align="center">
+   <img src="/Blender Showcase/Backyard in a Blue Void.jpg" width="256"/>
+</p>
+<p align="center">
+   ➡️ <a href="[https://www.instagram.com/p/Ca8nGnIAZXg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==](https://www.instagram.com/reel/CdTXy9HloCj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)">Watch the full "French Touch" animation on my Instagram!!</a>
+</p>
 
 
 #### The Ford Bronco
@@ -154,8 +215,8 @@ This design project was super refreshing as it helped me stay creative and produ
 
 My 2023-2024 winter internship with Emsco was a fantastic learning experience that helped me develop many technical and professional skills during my time with them. To preface, though, Emsco Inc. is a wire harness and PCB manufacturing company based in Ashland, VA, right outside of my hometown. Working as an IT intern for Emsco was an incredible exploration of a load of vital computer science concepts like data structures, for example, and how we should approach implementing them in the workplace. My time with Emsco also required me to gain a strong understanding of Excel, PowerQuery, and Visual Basic. On top of this, prototyping ideas on paper and in Python became a constant before implementing them into our Excel Macros (mostly because VBA kinda sucks but that's beside the point). My time at Emsco was also a great learning experience in communication between my colleagues. Since my job was mostly discussing issues, bugs, and ideas and implementing them for my co-workers, I quickly picked up. I understood the importance of strong communication skills and the idea of "failing small." This "failing small" philosophy was big around the office, and especially in IT, as modifications sometimes broke things that should never break. For example, we would often make small changes before consulting our colleagues to ensure our implementations were on the right track. This ensured a constantly efficient workflow where no time was wasted. Although this philosophy may seem somewhat obvious or straightforward, it was absolutely vital to keep the company's operation flowing smoothly without sudden issues arising.
 
-### 7 Years of Christian-Arabic Tutoring at Third Church RVA
-➡️ [Find Third Church here!](https://www.thirdrva.org/)
+### 7 Years of Immigrant and Refugee Tutoring at Third Church RVA
+➡️ [Find Third Church here!](https://www.thirdrva.org/)  
 ➡️ [Find the tutoring program here!](https://www.thirdrva.org/refugee-tutoring)
 
 As a seven-year volunteer tutor at Third Church RVA, I had the privilege of teaching Christian Arabic students. During this experience, I focused heavily on providing each tutee, most of whom were ESL students, help with English as well as general academic support. With my diligent approach to tutoring, I enjoyed actively engaging with each tutoree encouraging each to develop a strong sense of curiosity and deep understanding of subject matters. This experience was so rewarding for me and helped me develop an incredibly strong set of communication skills. On top of this, Christian-Arabic tutoring embedded the importance of diversity in the workplace within me. Where most just see a group of colleagues, I see a team of individuals who each bring nuanced perspectives and unique strengths to the table, collectively capable of developing innovative solutions and fostering a strong collaborative spirit. Small side note: some of my tutees in the tutoring program actually helped me translate part of my [Watch AI](#-watch-ai-ai-on-your-wrist) app into Arabic which was a ton of fun!
