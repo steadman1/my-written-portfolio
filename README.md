@@ -197,7 +197,7 @@ This design project was super refreshing as it helped me stay creative and produ
    <img src="/Blender Showcase/Backyard in a Blue Void.jpg" width="256"/>
 </p>
 <p align="center">
-   ➡️ <a href="[https://www.instagram.com/p/Ca8nGnIAZXg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==](https://www.instagram.com/reel/CdTXy9HloCj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)">Watch the full "French Touch" animation on my Instagram!!</a>
+   ➡️ <a href="https://www.instagram.com/reel/CdTXy9HloCj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full backyard in a blue void animation on my Instagram!!</a>
 </p>
 
 
