@@ -18,6 +18,7 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
       - [Swift Student Challenge 2023](#-swift-student-challenge-2023)
       - [MR Alpha: Meeting Recorder](#-mr-alpha-meeting-recorder)
       - [Spotify Buddy](#-spotify-buddy)
+   4. [My Design Projects]()
 2. [A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [7 Years of Christian-Arabic Tutoring at Third Church RVA](#7-years-of-christian-arabic-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
@@ -90,6 +91,8 @@ During my high school junior year, notably following the COVID-19 quarantine yea
 ➡️ [Source code here](https://github.com/steadman1/Spotify-Buddy/tree/main)
 
 As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), Spotify Buddy was written in Dart in combination with the Flutter SDK developed by Google. Although I absolutely loved working with Flutter in Spotify Buddy and a load of other test apps, I decided to make my switch to Swift as I found myself not using the suite of cross-platform features Flutter offered. Instead, I found myself targeting iOS and justifying my use of Flutter over Swift with "I could compile my apps onto Android and the Web" despite never doing so. After researching and exploring Swift5 and SwiftUI, I decided the switch from Flutter to Swift would be worth it since I already had a Mac and it would streamline my entire workflow. Plus, I wouldn't have to deal with XCode's constant throwing of random non-descript errors when working with Flutter. Back to Spotify Buddy, though, it was a pretty huge project for me at the time as I had previously only made small little test apps in Flutter. In contrast, this was a fully fledged, two week long project that had my focus working overtime. The process of writing the app was amazing, and, to this day, I loved working in Dart. With its similarity to Typescript, I believe it's a fantastic, familiar language with very beautiful syntax. Overall, Spotify Buddy was the push that got my love for mobile development rolling. For the app itself, I enjoyed the final product, and, to my surprise, I had many people hyping it up like crazy. Looking forward, I see a possible remake in the future 👀.
+
+### 👨🏼‍🎨 My Design Projects
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
