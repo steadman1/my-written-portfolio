@@ -18,13 +18,13 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
       - [Swift Student Challenge 2023](#-swift-student-challenge-2023)
       - [MR Alpha: Meeting Recorder](#-mr-alpha-meeting-recorder)
       - [Spotify Buddy](#-spotify-buddy)
-   4. [My Design Projects]()
-2. [A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
+   4. [👨🏼‍🎨 My Design Projects](#-my-design-projects)
+2. [🕵🏼‍♂️ A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [7 Years of Immigrant and Refugee Tutoring at Third Church RVA](#7-years-of-immigrant-and-refugee-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
    3. [A Position With Your Company 👀 (?)](#a-position-with-your-company--)
 3. [Too Long; Didn't Read](#-too-long-didnt-read)
-4. [Contact Information](#contact-information)  
+4. [📥 Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
 
