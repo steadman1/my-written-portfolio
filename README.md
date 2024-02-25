@@ -56,7 +56,15 @@ As I mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-makin
 This collection of SwiftUI apps is extremely special to me and each represents an unbelievable amount of man-hours. The first few apps listed have been published on the App Store (except for Ponder, but it's extremely close to being finished). Each of these apps also represents a huge learning experience for me as each used a new technology or framework to complete.
 
 #### 💭 Ponder: Lucid Dream Journal
-➡️ [Showcase images/videos here]()
+<p align="center">
+   <img src="/Ponder Design Showcase/In App Screenshots/IMG_2799.PNG" width="100"/>
+   <img src="/Ponder Design Showcase/In App Screenshots/IMG_2804.PNG" width="100"/>
+   <img src="/Ponder Design Showcase/In App Screenshots/IMG_2803.PNG" width="100"/>
+   <img src="/Ponder Design Showcase/In App Screenshots/IMG_2808.PNG" width="100"/>
+   <img src="/Ponder Design Showcase/In App Screenshots/IMG_2806.PNG" width="100"/>
+   <img src="/Ponder Design Showcase/In App Screenshots/IMG_2807.PNG" width="100"/>
+   <img src="/Ponder Design Showcase/In App Screenshots/IMG_2796.PNG" width="100"/>
+</p>
 
 This app has been by far my most challenging project incorporating a ton of technologies, design challenges, and planning. My original idea for this app came from my need for an organized dream journal that Apple's notes app didn't have—also I love building apps, so I decided I had to make Ponder. Since then, I learned Figma, which was huge for me as I had wanted to learn it for the entirety of my app-making "career." Figma was a huge step forward for my ability to plan and prototype UI/UX elements, far far better than my previous pencil and notepad (which wasn't actually all that bad). For Ponder, I decided to make a [wireframe prototype](https://www.figma.com/file/1Ussz1ZcWqnENtqK7Cqn2b/ponder?type=whiteboard&node-id=0-1) and a [fully fleshed-out prototype](https://www.figma.com/file/HFnIbqpI2WOGnquCQjvPt4/Ponder?type=design&node-id=113-7&mode=design) in Figma where small changes were made between each. From the designs in Figma, I started to build the app as I started my first at Virginia Tech. I still remember finishing my first day of Swift coding for Ponder in the Torgesen library bridge—it was a truly humbling experience trying to figure out SwiftUI's Path objects and the unreasonably annoying addArc() method. Since then, I have made fairly steady progress on Ponder, including the logo design, some motion design projects for Ponder, and graphic design posters. The development of Ponder has been, although very difficult, incredibly rewarding as I look back and see how far my designs, visions, and progression of Ponder have come. The app has firmly cemented my dream of becoming a design-focused full-stack developer. As I look forward, I also hope to see Ponder acquire the success that I believe it deserves!
 
