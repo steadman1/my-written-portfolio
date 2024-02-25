@@ -95,11 +95,15 @@ As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), 
 
 ### 👨🏼‍🎨 My Design Projects
 
-#### The Ponder Logo
-➡️ 
+This collection of design projects of mine are mostly a creative outlet for me rather than a source of monetization. However, I believe that they hold up extremely well despite being a simple hobby of mine. Each of these projects was created using a combination of software, for example, most animations were modeled and rendered in Blender and compiled into a video using Adobe Premiere Pro. From working on these projects in my free time, I have become profficient in the Adobe suite which has been so fun as I can essentially make whatever I want, whenever I want! Side note: videos are well supported in Github's Readme files, so all of the videos have links where you can view them on my instagram page.
 
+#### The Ponder Logo
+<p align="center">
+   <img src="/Ponder Design Showcase/ponder_bubbly_icon_rounded.png" width="128"/>
+</p>
 
 #### A Ponder Motion Design Project
+➡️ [Watch It on my Instagram!](https://www.instagram.com/p/Cvgt0n2g-rp/?img_index=1)
 
 #### The Ponder Poster Collection
 <p align="center">
@@ -113,20 +117,35 @@ As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), 
 This design project was super refreshing as it helped me stay creative and productive during a break I took from programming the [Ponder app]((#-ponder-lucid-dream-journal)). Each of the posters, designed in Photoshop, came out looking fantastic—each with a bit of humor as they attempt to parody popular 70's - 80's ads. My favorite was by far the "With Ponder, any dream can take flight." poster. From its colors, to its typography, and with its graphics, the poster takes on the exact vintage feel that I aimed to achieve. These posters also double as ads themselves too, so the whole creation process was a win-win—a fun creative outlet combined with a source of publicity for Ponder when its full release drops.
 
 #### Dream Tapes
+➡️ [Watch It on my Instagram!](https://www.instagram.com/p/Cvgt0n2g-rp/?img_index=1)
 
 #### A Katana and Knights Helmet
+➡️ [Watch It on my Instagram!](https://www.instagram.com/reel/CbL9EvKFvS6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 #### A DeLorean
+➡️ [Watch It on my Instagram!](https://www.instagram.com/reel/CcOfYe4J9Tj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 #### Spoon Catapult
+➡️ [Watch It on my Instagram!](https://www.instagram.com/reel/Cd3hky5FMzi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 #### Saturn’s Ring Highway
+<p align="center">
+   <img src="/Blender Showcase/wallpaper_mac.png" width="128"/>
+</p>
 
 #### The French Touch
+➡️ [Watch It on my Instagram!](https://www.instagram.com/p/Ca8nGnIAZXg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 #### Backyard In a Blue Void
+➡️ [Watch It on my Instagram!](https://www.instagram.com/reel/CdTXy9HloCj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 
 #### The Ford Bronco
+<p align="center">
+   <img src="/Blender Showcase/Ford Bronco/IMG_9550.JPG" width="128"/>
+   <img src="/Blender Showcase/Ford Bronco/IMG_9549.JPG" width="128"/>
+   <img src="/Blender Showcase/Ford Bronco/IMG_9514.jpg" width="128"/>
+</p>
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
