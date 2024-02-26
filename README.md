@@ -1,11 +1,13 @@
 # Hi, I'm Spencer Steadman.
 
 ## Who Am I?
-Hi, I'm Spencer Steadman—an independent, self-taught software engineer and student at Virginia Tech. As a student, and throughout my five years of programming, I have grown to love the process of learning and expressing my creativity through artistic mediums. Whether these mediums are code, graphic design, 3D design, etc., the projects I have been able to complete express my diverse skill sets in design and problem-solving. With these skills, I want to be part of a team of like-minded design-focused individuals. For more technical and experiential information, my LinkedIn has plenty more information about me: [Spencer Steadman—About](https://www.linkedin.com/in/spencer-steadman-642b38269/#About).  
+Hi, I'm Spencer Steadman—an independent, self-taught software engineer and student at Virginia Tech. As a student, and throughout my five years of programming, I have grown to love the process of learning and expressing my creativity through artistic mediums. Whether these mediums are code, graphic design, 3D design, etc., the projects I have been able to complete express my diverse skill sets in design and problem-solving. With these skills, 
+I'm excited for what the future holds and I'm keen to become a part of a progressive team, where my enthusiasm and skill sets can play a role in developing groundbreaking technology. My journey has been one of unwavering dedication toward excellence, and I look forward to learning from industry leaders, challenging my limits, and pushing the boundaries of tech. For more technical and experiential information, my LinkedIn has plenty more information about me: [Spencer Steadman—About](https://www.linkedin.com/in/spencer-steadman-642b38269/#About).  
 Who am I beyond the code and design work? At heart, I'm an athlete and self-proclaimed music connoisseur (my favorite artists being Steely Dan, Daft Punk, Radiohead. and The Beatles—check out [my Spotify](https://open.spotify.com/user/s_steadman) for more 🌞). Growing up surrounded by music, I quickly gained my passion for creativity and analytical thinking as my family often delved into discussions over every song and lyric in each song played through my Dad's speakers. Athletics, running and swimming particularly, have instilled a strong resilience and determination that I carry with me in all areas of my life. In my free time, I enjoy working on small design projects, iOS apps, occasionally some creative writing essays, and daydreaming about the beach.
 
 ## Contents
-1. [My Skills—Through Projects](#my-skills-shown-through-projects)
+1. [Introduction](#who-am-i)
+2. [My Skills Through Projects](#my-skills-shown-through-projects)
    1. [🎶 My Interactive Portfolio Website 🏡](#-my-interactive-portfolio-website-)
       - [✍🏻 The Portfolio Making Process](#-the-portfolio-making-process)  
    2. [🌎 My Globe Web App](#-my-globe-web-app)
@@ -19,12 +21,12 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
       - [MR Alpha: Meeting Recorder](#-mr-alpha-meeting-recorder)
       - [Spotify Buddy](#-spotify-buddy)
    4. [👨🏼‍🎨 My Design Projects](#-my-design-projects)
-2. [🕵🏼‍♂️ A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
+3. [🕵🏼‍♂️ A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [7 Years of Immigrant and Refugee Tutoring at Third Church RVA](#7-years-of-immigrant-and-refugee-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
    3. [A Position With Your Company 👀 (?)](#a-position-with-your-company--)
-3. [Too Long; Didn't Read](#too-long-didnt-read)
-4. [📥 Contact Information](#contact-information)  
+4. [Too Long; Didn't Read](#too-long-didnt-read)
+5. [📥 Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
 
