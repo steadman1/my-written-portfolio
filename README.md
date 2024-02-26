@@ -23,7 +23,7 @@ Now for a more personal introduction! I'm Spencer Steadman—an athlete and self
    1. [7 Years of Immigrant and Refugee Tutoring at Third Church RVA](#7-years-of-immigrant-and-refugee-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
    3. [A Position With Your Company 👀 (?)](#a-position-with-your-company--)
-3. [Too Long; Didn't Read](#-too-long-didnt-read)
+3. [Too Long; Didn't Read](#too-long-didnt-read)
 4. [📥 Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
