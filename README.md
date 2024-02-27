@@ -109,8 +109,8 @@ This collection of design projects of mine are mostly a creative outlet for me r
 
 #### The Ponder Logo
 <p align="center">
-   <img src="/Ponder Design Showcase/ponder_full.png" height="180"/>
    <img src="/Ponder Design Showcase/ponder_bubbly_icon_rounded.png" width="180"/>
+   <img src="/Ponder Design Showcase/ponder_full.png" height="180"/>
 </p>
 
 The development of Ponder has been so technically rewarding especially because of its pretty massive scope. With the creation of the logo you see above, I was able to extend Ponder from just an outwardly-facing software project to being an all encompassing design project. Overall, I'm still in love with the logo just as much as the moment I finished it. Tools I used to create it were a pencil and paper, Figma, Adobe Illustrator, and Adobe Photoshop!
