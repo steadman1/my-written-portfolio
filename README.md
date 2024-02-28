@@ -48,7 +48,7 @@ This was a fairly massive project for me as it combined programming with Typescr
    <img src="/Globe Web App/IMG_3240.PNG" width="128"/>
 </p>
 <p align="center">
-   ➡️ <a href="https://github.com/steadman1/my-written-portfolio/tree/main/Globe%20Portfolio/RPReplay_Final1629506411.mov">Watch the full globe web app video here!!</a>
+   ➡️ <a href="https://github.com/steadman1/my-written-portfolio/tree/main/Globe%20Web%20App/RPReplay_Final1629506411.mov">Watch the full globe web app video here!!</a>
 </p>
 
 #### 👨🏼‍💻 The Blender & Three.js Learning Process
