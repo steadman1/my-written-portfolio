@@ -51,9 +51,6 @@ This was a fairly massive project for me as it combined programming with Typescr
    ➡️ <a href="https://github.com/steadman1/my-written-portfolio/tree/main/Globe%20Portfolio/RPReplay_Final1629506411.mov">Watch the full globe web app video here!!</a>
 </p>
 
-
-➡️ []()
-
 #### 👨🏼‍💻 The Blender & Three.js Learning Process
 As I mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-making-process), I had to learn and use Three.js for my current [spencersteadman.com](https://www.spencersteadman.com) portfolio which proceeded my [My Globe Web App project](Globe%20Web%20App/). The idea for these two web app projects stemmed from my desire to explore outside of code, which I picked up in late 2019 through my participation in my school's International Baccalaureate program (which I also successfully graduated from and got my IB Diploma 👏👏, thank you, thank you 👏👏), and into more design fields. I had already been an active user of Adobe Photoshop and Premiere Pro, so I decided to try pivoting to 3D modeling and 3D motion design with Blender in mid-2021. I started with a few YouTube tutorials where I created my version of the infamous ["Blender Donut."](Blender%20Showcase/Infamous%20Donut/) I continued my dive into 3D modeling pretty heavily with a variety of complex projects and 3D motion design & 3D animation projects ([plenty of showcase images here + .blend files!!](Blender%20Showcase/)). During this time, I got the idea to combine my newfound passion for 3D modeling with programming websites which I was also enjoying at the time. So, the initial idea for the spinning globe web app seemed like a logical line to follow. And then—boom—the brainchild was formed. The development of the website was a blast especially since I got to learn Three.js and explore texturing in Blender which I discovered I'm admittedly pretty bad at. However, understanding and enjoying Three.js in combination with Blender was a driving force in completing the project which continued into the development of [spencersteadman.com](https://www.spencersteadman.com). Following this timeline format, after finishing the globe web app project, I continued working in Blender with my favorite project being my [Ford Bronco]() model. Since completing my magnum opus Ford Bronco model, I haven't worked much with Blender mainly from my workload here at Virginia Tech. However, my desire to be creative is just as strong if not stronger, and I've been working on random small projects here and there.
 
@@ -176,6 +173,8 @@ This animation marked the beginning of my Blender "animation journey" as it was 
    ➡️ <a href="https://www.instagram.com/reel/CbL9EvKFvS6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full katana animation on my Instagram!!</a>
 </p>
 
+This animation is probably my favorite in terms of the motion design—it's just so satisfying to watch. The renders and animations of the katana and knight's helmet were a blast to make mostly because of all the interesting materials and reflections the models made. On top of the fact that I was able to add some pretty nice sound design into it too, I still believe it to be a great display 3D modeling, motion design and sound design skills despite its age.
+
 #### A DeLorean
 <p align="center">
    <img src="/Blender Showcase/DeLorean/delorean back1.PNG" width="160"/>
@@ -188,6 +187,8 @@ This animation marked the beginning of my Blender "animation journey" as it was 
    ➡️ <a href="https://www.instagram.com/reel/CcOfYe4J9Tj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the DeLorean animation on my Instagram!!</a>
 </p>
 
+I still remember working on this animation on the plane to San Francisco during my junior year of highschool. I'm so incredibly proud of the render and it, similar to the [Katana and Knights Helmet render](#a-katana-and-knights-helmet), has stood the test of time very well. This project was my first attempt at making a photorealistic car, and my success with the model was a driving force (🥴) in my completion of my [Ford Bronco model](#the-ford-bronco).
+
 #### Spoon Catapult
 <p align="center">
    <img src="/Blender Showcase/Spoon Catapult/IMG_3222.jpg" width="160"/>
@@ -199,10 +200,14 @@ This animation marked the beginning of my Blender "animation journey" as it was 
    ➡️ <a href="https://www.instagram.com/reel/Cd3hky5FMzi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full spoon catapult animation on my Instagram!!</a>
 </p>
 
+
+
 #### Saturn’s Ring Highway
 <p align="center">
    <img src="/Blender Showcase/wallpaper_mac.png" width="600"/>
 </p>
+
+
 
 #### The French Touch
 <p align="center">
@@ -218,6 +223,8 @@ This animation marked the beginning of my Blender "animation journey" as it was 
    ➡️ <a href="https://www.instagram.com/p/Ca8nGnIAZXg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full "French Touch" animation on my Instagram!!</a>
 </p>
 
+
+
 #### Backyard In a Blue Void
 <p align="center">
    <img src="/Blender Showcase/Backyard in a Blue Void.jpg" width="256"/>
@@ -227,12 +234,15 @@ This animation marked the beginning of my Blender "animation journey" as it was 
 </p>
 
 
+
 #### The Ford Bronco
 <p align="center">
    <img src="/Blender Showcase/Ford Bronco/IMG_9550.JPG" width="300"/>
    <img src="/Blender Showcase/Ford Bronco/IMG_9549.JPG" width="300"/>
    <img src="/Blender Showcase/Ford Bronco/IMG_9514.jpg" width="256"/>
 </p>
+
+
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
