@@ -115,7 +115,7 @@ As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), 
 
 ### 👨🏼‍🎨 My Design Projects
 
-This collection of design projects of mine are mostly a creative outlet for me rather than a source of monetization. However, I believe that they hold up extremely well despite being a simple hobby of mine. Each of these projects was created using a combination of software, for example, most animations were modeled and rendered in Blender and compiled into a video using Adobe Premiere Pro. From working on these projects in my free time, I have become profficient in the Adobe suite which has been so fun as I can essentially make whatever I want, whenever I want! Side note: videos are well supported in Github's Readme files, so all of the videos have links where you can view them on my instagram page.
+This collection of design projects of mine are mostly a creative outlet for me rather than a source of monetization. However, I believe that they hold up extremely well despite being a simple hobby of mine. Each of these projects was created using a combination of software, for example, most animations were modeled and rendered in Blender and compiled into a video using Adobe Premiere Pro. From working on these projects in my free time, I have become proficient in the Adobe suite which has been so fun as I can essentially make whatever I want, whenever I want! Side note: videos are well supported in Github's Readme files, so all of the videos have links where you can view them on my Instagram page.
 
 #### The Ponder Logo
 <p align="center">
@@ -123,7 +123,7 @@ This collection of design projects of mine are mostly a creative outlet for me r
    <img src="/Ponder Design Showcase/ponder_full.png" height="180"/>
 </p>
 
-The development of Ponder has been so technically rewarding especially because of its pretty massive scope. With the creation of the logo you see above, I was able to extend Ponder from just an outwardly-facing software project to being an all encompassing design project. Overall, I'm still in love with the logo just as much as the moment I finished it. Tools I used to create it were a pencil and paper, Figma, Adobe Illustrator, and Adobe Photoshop!
+The development of Ponder has been so technically rewarding especially because of its pretty massive scope. With the creation of the logo you see above, I was able to extend Ponder from just an outwardly-facing software project to being an all encompassing design project. Overall, I'm still in love with the logo just as much as the moment I finished it. Tools I used to create it were pencil and paper, Figma, Adobe Illustrator, and Adobe Photoshop!
 
 #### A Ponder Motion Design Project
 <p align="center">
@@ -136,7 +136,7 @@ The development of Ponder has been so technically rewarding especially because o
    ➡️ <a href="https://www.instagram.com/p/Cvgt0n2g-rp/?img_index=1">Watch the full animation on my Instagram!!</a>
 </p>
 
-This was another crazy extension of Ponder's scope as it involved learning a number of new softwares and design techniques. Starting with the most obvious, this project used Adobe After Effects for the motion design which was fairly easy to learn coming from Premiere Pro and Photoshop. However, it was super interesting to use Photoshop as an intermediate in this project as its usually a tool I use to finalize/entirely create projects in! On top of learning After Effects, I also learned Garage Band and the basics of sound design to add an extra layer of depth to the already solid animation! Tools I used to create it were once again a pencil and paper, Figma, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, and Garage Band!
+This was another crazy extension of Ponder's scope as it involved learning a number of new software and design techniques. Starting with the most obvious, this project used Adobe After Effects for the motion design which was fairly easy to learn coming from Premiere Pro and Photoshop. However, it was super interesting to use Photoshop as an intermediate in this project as it is usually a tool I use to finalize/entirely create projects in! On top of learning After Effects, I also learned Garage Band and the basics of sound design to add an extra layer of depth to the already solid animation! Tools I used to create it were once again a pencil and paper, Figma, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, and Garage Band!
 
 #### The Ponder Poster Collection
 <p align="center">
@@ -147,7 +147,7 @@ This was another crazy extension of Ponder's scope as it involved learning a num
    <img src="/Ponder Design Showcase/Dont_Let_Dreams_Fleet.png" width="128"/>
 </p>
 
-This design project was super refreshing as it helped me stay creative and productive during a break I took from programming the [Ponder app](#-ponder-lucid-dream-journal). Each of the posters, designed in Photoshop, came out looking fantastic—each with a bit of humor as they attempt to parody popular 70's - 80's ads. My favorite was by far the "With Ponder, any dream can take flight." poster. From its colors, to its typography, and with its graphics, the poster takes on the exact vintage feel that I aimed to achieve. These posters also double as ads themselves too, so the whole creation process was a win-win—a fun creative outlet combined with a source of publicity for Ponder when its full release drops. Tools I used to create it were, of course, a pencil and paper, Adobe Illustrator, and Adobe Photoshop!
+This design project was super refreshing as it helped me stay creative and productive during a break I took from programming the [Ponder app](#-ponder-lucid-dream-journal). Each of the posters, designed in Photoshop, came out looking fantastic—each with a bit of humor as they attempt to parody popular 70's - 80's ads. My favorite was by far the "With Ponder, any dream can take flight." poster. From its colors to its typography, and with its graphics, the poster takes on the exact vintage feel that I aimed to achieve. These posters also double as ads too, so the whole creation process was a win-win—a fun creative outlet combined with a source of publicity for Ponder when its full release drops. Tools I used to create it were, of course, a pencil and paper, Adobe Illustrator, and Adobe Photoshop!
 
 #### Dream Tapes
 <p align="center">
@@ -160,7 +160,7 @@ This design project was super refreshing as it helped me stay creative and produ
    ➡️ <a href="https://www.instagram.com/reel/CZnrkCLgWGL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full dream tapes animation on my Instagram!!</a>
 </p>
 
-This animation marked the beginning of my Blender "animation journey" as it was the first animation of mine that had a true narrative. On top of this, after posting it to my instagram page, it gained a decent amount of traction which gave me a great amount of motivation to continue. This project was an incredible venture into storyboarding in addition to the obvious 3D modeling and animation basics. I still really enjoy this animation as it leaves the viewer with a lot to question. Also, I love the stylized look I decided to use for the project!
+This animation marked the beginning of my Blender "animation journey" as it was the first animation of mine that had a true narrative. On top of this, after posting it to my Instagram page, it gained a decent amount of traction which gave me a great amount of motivation to continue. This project was an incredible venture into storyboarding in addition to the obvious 3D modeling and animation basics. I still really enjoy this animation as it leaves the viewer with a lot to question. Also, I love the stylized look I decided to use for the project!
 
 #### A Katana and Knights Helmet
 <p align="center">
@@ -187,7 +187,7 @@ This animation is probably my favorite in terms of the motion design—it's just
    ➡️ <a href="https://www.instagram.com/reel/CcOfYe4J9Tj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the DeLorean animation on my Instagram!!</a>
 </p>
 
-I still remember working on this animation on the plane to San Francisco during my junior year of highschool. I'm so incredibly proud of the render and it, similar to the [Katana and Knights Helmet render](#a-katana-and-knights-helmet), has stood the test of time very well. This project was my first attempt at making a photorealistic car, and my success with the model was a driving force (🥴) in my completion of my [Ford Bronco model](#the-ford-bronco).
+I still remember working on this animation on the plane to San Francisco during my junior year of high school. I'm so incredibly proud of the render and it, similar to the [Katana and Knights Helmet render](#a-katana-and-knights-helmet), has stood the test of time very well. This project was my first attempt at making a photorealistic car, and my success with the model was a driving force (🥴) in my completion of my [Ford Bronco model](#the-ford-bronco).
 
 #### Spoon Catapult
 <p align="center">
@@ -200,14 +200,17 @@ I still remember working on this animation on the plane to San Francisco during 
    ➡️ <a href="https://www.instagram.com/reel/Cd3hky5FMzi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full spoon catapult animation on my Instagram!!</a>
 </p>
 
-
+"The idea for this animation popped into my head, and I’m so glad I made it. This animation was a TON of fun to do and I loved literally every part of it. The sound design was especially fun because I got to revisit all the old Wii Sports sound effects 🥲. This week, working in Blender and on 3D projects has been the most fun it ever has been, and I can’t wait to work on more stuff soon!! Hope you guys are enjoying the loops too! 🙏💪" -Spencer from 92 weeks ago (from my Instagram caption).
 
 #### Saturn’s Ring Highway
 <p align="center">
    <img src="/Blender Showcase/wallpaper_mac.png" width="600"/>
 </p>
+<p align="center">
+   ➡️ <a href="https://www.instagram.com/p/Cg0218nghQQ/?img_index=1">View the render on my Instagram!!</a>
+</p>
 
-
+This render, now my MacBook wallpaper, was a surrealist piece inspired by the works of [@linearcollages](https://www.instagram.com/linearcollages/?img_index=1) on Instagram. It was a fantastic dive into surrealism and a personal case study of how I would approach works of inspiration. Side note: this render includes the debut of my [Ford Bronco model](#the-ford-bronco) in the back! It adds a fun small detail that is barely noticeable, but I still love it. 
 
 #### The French Touch
 <p align="center">
@@ -223,7 +226,7 @@ I still remember working on this animation on the plane to San Francisco during 
    ➡️ <a href="https://www.instagram.com/p/Ca8nGnIAZXg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full "French Touch" animation on my Instagram!!</a>
 </p>
 
-
+The French Touch animation (heavily inspired by Daft Punk) is the story of Daft Punk's song "Digital Love" shown through the visual narrative I created with two short scenes. Although the animation is packed with meaning, the narrative is about the unresolved dreams of the Daft Punk characters and how love has escaped them. I portrayed this loss through the desert scene with the lonely helmet as the previous scene fades to black as if to say the memory shown is stored only within the helmet. Then, as the camera zooms out, it's clear the dreams of the character derived from those lost memories have now been deserted and left to wither away whether intentional or not.
 
 #### Backyard In a Blue Void
 <p align="center">
@@ -233,7 +236,7 @@ I still remember working on this animation on the plane to San Francisco during 
    ➡️ <a href="https://www.instagram.com/reel/CdTXy9HloCj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full backyard in a blue void animation on my Instagram!!</a>
 </p>
 
-
+This project was the product of my attempt to see if I could fit a Steely Dan song into one of my animations which I believe I succeeded in! The inspiration behind this animation was a combination of nostalgia bait and liminal spaces which I implemented shown through the blue void in the back. The uneasy feeling and digitally nostalgic display of the scene with its pixelated look, helped build a strong atmosphere for the reverbed, similarly nostalgic, Kid Charlemagne by Steely Dan in the background.
 
 #### The Ford Bronco
 <p align="center">
@@ -242,7 +245,7 @@ I still remember working on this animation on the plane to San Francisco during 
    <img src="/Blender Showcase/Ford Bronco/IMG_9514.jpg" width="256"/>
 </p>
 
-
+Still incomplete, this project was an incredibly time-consuming conceptual extension of my [DeLorean](#a-delorean)
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
@@ -264,9 +267,9 @@ As I look forward, I'm so incredibly excited to see what the future holds for me
 ## Too Long; Didn't Read
 Hi, I'm Spencer Steadman. Although I would encourage you to read my whole portfolio, since you're already reading this there's not much I can do to get you to do so at this point. So, I'm a self-taught software engineer and student at Virginia Tech with a portfolio spanning programming, graphic design, and 3D modeling. Over my five years of programming, I have cultivated a love for learning and creativity, resulting in a series of projects that showcase my skills in design and problem-solving. My passion, shown most notably in my [Swift projects]((#-my-swift-projects)) and my [interactive portfolio](#-my-interactive-portfolio-website-), lies in combining my technical skills with artistic creativity.
 
-My interests are as diverse as my skills, including music, computers, athletics, and creative writing, which complement my academic and professional endeavors. Through an [IT internship with Emsco Inc.](#it-internship-at-emsco-inc) and [extensive tutoring through my church]((#7-years-of-christian-arabic-tutoring-at-third-church-rva)), I've developed strong communication abilities and learned the value of teamwork in diverse environments.
+My interests are as diverse as my skills, including music, computers, athletics, and creative writing, which complement my academic and professional endeavors. Through an [IT internship with Emsco Inc.](#it-internship-at-emsco-inc) and [extensive tutoring through my church](##7-years-of-immigrant-and-refugee-tutoring-at-third-church-rva), I've developed strong communication abilities and learned the value of teamwork in diverse environments.
 
-Some highlights of my portfolio include the development of my interactive portfolio website that effectively combines and displays my diverse technical capabilities, a suite of Swift projects that underline my full-stack development skills, and my impactful contributions through IT solutions and tutoring. Looking ahead, I'm thrilled about the future and eager to join a forward-thinking team, where my unique mix of creativity, technical skill, and passion for innovation can contribute to pioneering solutions. My journey has been a relentless pursuit of excellence, and joining your company represents a chance to apply my abilities at the forefront of technology, learning from the best to push the boundaries of what's possible. More about my journey and work can be found on my [LinkedIn profile](https://www.linkedin.com/in/spencer-steadman-642b38269/) and at [spencersteadman.com](https://spencersteadman.com).
+Some highlights of my portfolio include the development of my interactive portfolio website that effectively combines and displays my diverse technical capabilities, a suite of Swift projects that underline my full-stack development skills, my winter internship with Emsco Inc., and my seven years of immigrant and refugee tutoring. Looking ahead, I'm thrilled about the future and eager to join a forward-thinking team, where my unique mix of creativity, technical skill, and passion for innovation can contribute to pioneering solutions. My journey has been a relentless pursuit of excellence, and joining your company represents a chance to apply my abilities at the forefront of technology, learning from the best to push the boundaries of what's possible. More about my journey and work can be found on my [LinkedIn profile](https://www.linkedin.com/in/spencer-steadman-642b38269/) and at [spencersteadman.com](https://spencersteadman.com).
 
 ## Contact Information  
 
