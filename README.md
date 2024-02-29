@@ -275,5 +275,5 @@ Some highlights of my portfolio include the development of my interactive portfo
 
 Emails: [Personal Contact](mailto:sjsteadman05@icloud.com) && [Academic Contact](mailto:steadman@vt.edu)  
 LinkedIn: [Spencer Steadman](https://www.linkedin.com/in/spencer-steadman-642b38269/)  
-Instagram: [@s__steadman](https://instagram.com/s__steadman) && [@liminalcode](https://instagram.com/liminalcode)  
+Instagram: [@s__steadman](https://instagram.com/s__steadman) && [@liminalcode](https://instagram.com/liminalcode) && [@steadman_3d](https://instagram.com/steadman_3d)  
 Github: [steadman1](https://github.com/steadman1)  
