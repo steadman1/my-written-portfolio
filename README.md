@@ -146,6 +146,13 @@ This was another crazy extension of Ponder's scope as it involved learning a num
    <img src="/Ponder Design Showcase/Hold_The_Future_(Sony_Radio_Parody).png" width="128"/>
    <img src="/Ponder Design Showcase/Dont_Let_Dreams_Fleet.png" width="128"/>
 </p>
+<p align="center">
+   <img src="/Ponder Design Showcase/Sweet_Dreams_Coming_Soon_(Sony_Walkman_Parody).png" width="128"/>
+   <img src="/Ponder Design Showcase/Dreams_Talk_(WSJ_Parody)_Coming_Soon.png" width="128"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="128"/>
+   <img src="/Ponder Design Showcase/Hold_The_Future_(Sony_Radio_Parody)_Coming_Soon.png" width="128"/>
+   <img src="/Ponder Design Showcase/Dont_Let_Dreams_Fleet_Coming_Soon.png" width="128"/>
+</p>
 
 This design project was super refreshing as it helped me stay creative and productive during a break I took from programming the [Ponder app](#-ponder-lucid-dream-journal). Each of the posters, designed in Photoshop, came out looking fantastic—each with a bit of humor as they attempt to parody popular 70's - 80's ads. My favorite was by far the "With Ponder, any dream can take flight." poster. From its colors to its typography, and with its graphics, the poster takes on the exact vintage feel that I aimed to achieve. These posters also double as ads too, so the whole creation process was a win-win—a fun creative outlet combined with a source of publicity for Ponder when its full release drops. Tools I used to create it were, of course, a pencil and paper, Adobe Illustrator, and Adobe Photoshop!
 
