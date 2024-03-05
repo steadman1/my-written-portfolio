@@ -1,4 +1,4 @@
-# My Written Portfolio by Spencer Steadman.
+# My README.md Portfolio by Spencer Steadman.
 
 ## Who Am I?
 Hi, I'm Spencer Steadman—an independent, self-taught software engineer and student at Virginia Tech. As a student, and throughout my five years of programming, I have grown to love the process of learning and expressing my creativity through artistic mediums. Whether these mediums are code, graphic design, 3D design, etc., the projects I have been able to complete express my diverse skill sets in design and problem-solving. With these skills, 
