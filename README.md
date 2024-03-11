@@ -105,8 +105,16 @@ Initially as a joke, Pin It was so incredibly enjoyable to work on as I was able
 My idea for my 2023 Swift Student Challenge application was an AR sandbox physics app that would allow users to interact with virtual 3D objects in their real environment. With this app, I aimed to appeal to the Apple judges with the AR as there were rumors that the Vision Pro (unnamed at the time) was going to come out soon. In the end, I unfortunately missed the submission deadline as I was adamant to make the app as perfect as I could which sounds so incredibly stupid as I read it back. Overall though, the app was pretty cool, but it probably wouldn't have won or gotten much recognition as the features I had implemented by the deadline weren't super groundbreaking. 
 
 #### 👔 MR Alpha: Meeting Recorder 
-➡️ [Showcase images/videos here](/Swift%20Showcase/MR%20Alpha/)  
+➡️ [More showcase images/videos here](/Swift%20Showcase/MR%20Alpha/)  
 ➡️ [Source code here](https://github.com/steadman1/mr-alpha)
+
+<p align="center">
+   <img src="/Swift Showcase/MR Alpha/IMG_3202.PNG" width="128"/>
+   <img src="/Swift Showcase/MR Alpha/IMG_3207.PNG" width="128"/>
+   <img src="/Swift Showcase/MR Alpha/IMG_3203.PNG" width="128"/>
+   <img src="/Swift Showcase/MR Alpha/IMG_3206.PNG" width="128"/>
+   <img src="/Swift Showcase/MR Alpha/IMG_3205.PNG" width="128"/>
+</p>
 
 During my high school junior year, notably following the COVID-19 quarantine year, missing classes was a common occurrence among my classmates as COVID paranoia raged. Even though I was lucky enough to stay healthy throughout the year, I saw plenty of my peers fall behind—a big change from the year prior, my entirely virtual sophomore year, where all of our online classes were recorded. On top of this, being sick didn't really matter—we were still expected to open up our laptops and login to class. So, as many of my classmates vanished from class as they were forced to quarantine, recording classes became a similarly common occurrence. However, simple recordings weren't enough for me. So, I came up with the idea to develop an app that would instantly share transcribed, searchable recordings with groups of your choosing. MR Alpha, as I called it, was an incredibly exciting project that had a ton of practicality to it. From the UI to the codebase, at the time, this project was a huge development for me as, following my [Spotify Buddy](#-spotify-buddy) project, it was something I saw myself and others legitimately using consistently. Unfortunately, I was unable to publish this app as the Firebase API costs and Apple's $100 Apple Developer Account fee was far too steep for me. However, it stayed in use among my classmates which was so rewarding to see. Looking back, I'm still very proud of what I created with MR Alpha even though the UI/UX is somewhat questionable to me now.
 
