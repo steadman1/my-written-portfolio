@@ -89,14 +89,39 @@ This app has been by far my most challenging project incorporating a ton of tech
 Watch AI was a big step in my SwiftUI development journey as it proved that code wasn't just a hobby for me, but could also be a source of legitimate income. This was also a great sign for my parents as the 12-hour programming grinds they occasionally grouched over weren't completely useless. This app was the brainchild of an idea I had in the middle of a senior-year history class a few weeks after OpenAI released ChatGPT of having an AI on my Apple Watch (Siri doesn't count). Following that idea, and since my senior year in high school was fairly easy following my contrastingly grueling junior year, I started working on the app and had it completed around 4 or 5ish months later. The app was super interesting to develop as I had to use lots of tricks to introduce features I felt were necessary for the app to have. For example, a live dictation feature is separate from Apple's built-in dictation feature to allow users to automatically start asking their prompt on wake. After publishing the app, I had to eventually include a subscription model for Watch AI as the API costs for OpenAI's Davinci model were far too high to come out of my pockets. This is where the "not just a hobby" realization comes in, and Watch AI ended up making me a decent chunk of passive income (and still does to this day). Watch AI not only introduced the idea of SaaS and Swift for Apple Watch to me but also introduced the idea of marketing. This is where I felt like I had the biggest breakthrough at the time, and I was able to develop some somewhat cringeworthy but decent (?) ads that have been archived on my Instagram. Overall, Watch AI was a huge stepping stone for me, however, since its release I've felt a strong need to update the app as changes to OpenAI's API and new models have broken pieces of the app.
 
 #### 🌐 Liminal: AI Web Browser for Apple Watch 
-➡️ [Showcase images/videos here]()
+➡️ [More showcase images/videos here](/Swift%20Showcase/Liminal%20Browser/)
+
+<p align="center">
+   <img src="/Swift Showcase/Liminal Browser/incoming-B0C7D329-1A9A-463E-A853-E07896ADEEF9.PNG" width="100"/>
+   <img src="/Swift Showcase/Liminal Browser/incoming-D4A46A57-3584-49AF-96CA-83336AFBA0FB.PNG" width="100"/>
+   <img src="/Swift Showcase/Liminal Browser/incoming-21C732C0-0A18-4833-9868-78D10BF1E615.PNG" width="100"/>
+   <img src="/Swift Showcase/Liminal Browser/incoming-9A5B6202-4E20-431E-B866-135F8F228DE9.PNG" width="100"/>
+   <img src="/Swift Showcase/Liminal Browser/incoming-AC60F347-6246-4DE5-BC1E-3716A3081438.PNG" width="100"/>
+   <img src="/Swift Showcase/Liminal Browser/incoming-F47E2757-D7A8-400B-B49D-6E1E9BFCD7BC.PNG" width="100"/>
+   <img src="/Swift Showcase/Liminal Browser/incoming-7CB5CB31-3748-4A0B-A5B5-2421BEC2D8E0.PNG" width="100"/>
+</p>
 
 Liminal was a smaller step for me and was overshadowed quite heavily by Watch AI's success as Liminal was sort of only an extension of what I built with Watch AI. This section will be short because I believe that the development of Liminal was very similar to that of Watch AI. However, It helped bolster my ability to develop on Apple Watch and helped me further understand the basics of a cross-platform SwiftUI app. On top of this, Liminal does offer a legitimately useful extension of a mobile web browser on the Apple Watch with its inclusion of a chatbot to help answer questions on its limiting form factor. 
 
 #### 📌 Pin It! — Location Counter
-➡️ [Showcase images/videos here]()
+➡️ [More showcase images/videos here](/Swift%20Showcase/Pin%20It)
 
-Initially as a joke, Pin It was so incredibly enjoyable to work on as I was able to explore similar design styles and techniques as mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-making-process). However, I want to preface that Pin It is objectively not good in how it works. When it works it either requires the user to keep the app on when counting a location or is resource-intensive when counting visits in the background. Unfortunately, this wasn't something I had worried about at the time, but it has kind of come back to bite me in the ass. Either way, I believe Pin It is an interesting case study into my second attempt at alternative UI/UX design with its Duolingo-esque flat 3D styling. On top of this, it was an interesting look into the inner workings of Apple's Map API and developing apps that can help users interact and blend elements of the real world with technology. Also, this was my first app published on the App Store, so it will always hold a special place in my heart. The rush of seeing the "The status of Pin it! — Location Counter has changed to Ready for Sale" will never live itself down in my mind.
+<p align="center">
+   <img src="/Swift Showcase/Pin It/IMG_3293.PNG" width="128"/>
+   <img src="/Swift Showcase/Pin It/IMG_3297.PNG" width="128"/>
+   <img src="/Swift Showcase/Pin It/IMG_3295.PNG" width="128"/>
+   <img src="/Swift Showcase/Pin It/IMG_3296.PNG" width="128"/>
+   <img src="/Swift Showcase/Pin It/IMG_3294.PNG" width="128"/>
+</p>  
+<p align="center">
+   <img src="/Swift Showcase/Pin It/Pin it Ad/A160601F-ECCD-4501-9D49-1B35832C63D2.jpg" width="128"/>
+    <img src="/Swift Showcase/Pin It/Pin it Ad/D7C6B3AE-71E9-4A35-A807-22D4CE6A8993.jpg" width="128"/>
+   <img src="/Swift Showcase/Pin It/Pin it Ad/1DDF5064-D0AE-497B-90EC-C0BFCFA9A465.jpg" width="128"/>
+   <img src="/Swift Showcase/Pin It/Pin it Ad/F6D56D91-933E-4BE4-B38A-5A06C3303ECF.jpg" width="128"/>
+   <img src="/Swift Showcase/Pin It/Pin it Ad/80C895F1-00EC-449B-8342-4B12600DFC37.jpg" width="128"/>
+</p>  
+
+Initially as a joke, Pin It was so incredibly enjoyable to work on as I was able to explore similar design styles and techniques as mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-making-process). However, I want to preface that Pin It is objectively not good in how it works. When it works it either requires the user to keep the app on when counting a location or is resource-intensive when counting visits in the background. Unfortunately, this wasn't something I had worried about at the time, but it has kind of come back to bite me in the ass. Either way, I believe Pin It is an interesting case study into my second attempt at alternative UI/UX design with its Duolingo-esque flat 3D styling. On top of this, it was an interesting look into the inner workings of Apple's Map API and developing apps that can help users interact and blend elements of the real world with technology. Also, this was my first app published on the App Store, so it will always hold a special place in my heart. The rush of seeing the "The status of Pin it! — Location Counter has changed to Ready for Sale" will never live itself down in my mind. Double also, it was my first dive into passive social media "advertising" (so, without the paying social media companies part) which was super fun to explore allowing me to create some goofy designs in Photoshop. P.S. the designs I made are shown under the in-app screenshots.
 
 #### 👨🏼‍💻 Swift Student Challenge 2023
 ➡️ [Showcase images/videos here]()  
@@ -119,14 +144,13 @@ My idea for my 2023 Swift Student Challenge application was an AR sandbox physic
 During my high school junior year, notably following the COVID-19 quarantine year, missing classes was a common occurrence among my classmates as COVID paranoia raged. Even though I was lucky enough to stay healthy throughout the year, I saw plenty of my peers fall behind—a big change from the year prior, my entirely virtual sophomore year, where all of our online classes were recorded. On top of this, being sick didn't really matter—we were still expected to open up our laptops and login to class. So, as many of my classmates vanished from class as they were forced to quarantine, recording classes became a similarly common occurrence. However, simple recordings weren't enough for me. So, I came up with the idea to develop an app that would instantly share transcribed, searchable recordings with groups of your choosing. MR Alpha, as I called it, was an incredibly exciting project that had a ton of practicality to it. From the UI to the codebase, at the time, this project was a huge development for me as, following my [Spotify Buddy](#-spotify-buddy) project, it was something I saw myself and others legitimately using consistently. Unfortunately, I was unable to publish this app as the Firebase API costs and Apple's $100 Apple Developer Account fee was far too steep for me. However, it stayed in use among my classmates which was so rewarding to see. Looking back, I'm still very proud of what I created with MR Alpha even though the UI/UX is somewhat questionable to me now.
 
 #### 🎼 Spotify Buddy 
-➡️ [More showcase images/videos here!]()  
 ➡️ [Source code here](https://github.com/steadman1/Spotify-Buddy/tree/main)  
 
 <p align="center">
-   <img src="/Swift Showcase/Spotify Buddy/IMG_0001.PNG" width="160"/>
    <img src="/Swift Showcase/Spotify Buddy/IMG_0003.JPEG" width="160"/>
    <img src="/Swift Showcase/Spotify Buddy/IMG_4453.PNG" width="160"/>
    <img src="/Swift Showcase/Spotify Buddy/screenshot.png" width="160"/>
+   <img src="/Swift Showcase/Spotify Buddy/IMG_0001.PNG" width="160"/>  
 </p>
 
 As I mentioned in the preface of [🍎 My Swift Projects](#-my-swift-projects), Spotify Buddy was written in Dart in combination with the Flutter SDK developed by Google. Although I absolutely loved working with Flutter in Spotify Buddy and a load of other test apps, I decided to make my switch to Swift as I found myself not using the suite of cross-platform features Flutter offered. Instead, I found myself targeting iOS and justifying my use of Flutter over Swift with "I could compile my apps onto Android and the Web" despite never doing so. After researching and exploring Swift 5 and SwiftUI, I decided the switch from Flutter to Swift would be worth it since I already had a Mac and it would streamline my entire workflow. Plus, I wouldn't have to deal with XCode's constant throwing of random non-descript errors when working with Flutter. Back to Spotify Buddy, though, it was a pretty huge project for me at the time as I had previously only made small test apps in Flutter. In contrast, this was a fully-fledged, two-week-long project that had my focus working overtime. The process of writing the app was amazing, and, to this day, I love working in Dart. With its similarity to Typescript, I believe it's a fantastic, familiar language with very beautiful syntax. Overall, Spotify Buddy was the push that got my love for mobile development rolling. For the app itself, I enjoyed the final product, and, to my surprise, I had many people hyping it up like crazy. Looking forward, I see a possible remake in the future 👀.
@@ -251,7 +275,7 @@ This render, now my MacBook wallpaper, was a surrealist piece inspired by the wo
    ➡️ <a href="https://www.instagram.com/p/Ca8nGnIAZXg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full "French Touch" animation on my Instagram!!</a>
 </p>
 
-The French Touch animation (heavily inspired by Daft Punk) is the story of Daft Punk's song "Digital Love" shown through the visual narrative I created with two short scenes. Although the animation is packed with meaning, the narrative is about the unresolved dreams of the Daft Punk characters and how love has escaped them. I portrayed this loss through the desert scene with the lonely helmet as the previous scene fades to black as if to say the memory shown is stored only within the helmet. Then, as the camera zooms out, it's clear the dreams of the character derived from those lost memories have now been deserted and left to wither away whether intentional or not.
+The French Touch animation (heavily inspired by Daft Punk) is the story of Daft Punk's song "Digital Love" shown through the visual narrative I created with two short scenes. Although the animation is packed with meaning, the narrative is primarily about the unresolved dreams of the Daft Punk characters and how love has escaped them. I portrayed this loss through the desert scene with the lonely helmet as the previous scene fades to black as if to say the memory shown is stored only within the helmet. Then, as the camera zooms out, it's clear the dreams of the character derived from those lost memories have now been deserted and left to wither away whether intentional or not. The animation also includes a switch in its sound as the camera zooms out into the desert scene to give the effect of the sound being played through a radio. As I rewatch the video, this detail is somewhat easy to miss as phone speakers have trouble reproducing the right sound for whatever reason, unfortunately. This animation as a whole has held up super well both in terms of the creative vision as well as its visual style.
 
 #### Backyard In a Blue Void
 <p align="center">
@@ -270,7 +294,7 @@ This project was the product of my attempt to see if I could fit a Steely Dan so
    <img src="/Blender Showcase/Ford Bronco/IMG_9514.jpg" width="256"/>
 </p>
 
-Still incomplete, this project was an incredibly time-consuming conceptual extension of my [DeLorean](#a-delorean)
+Still incomplete, this project has been an incredibly time-consuming conceptual extension of my [DeLorean](#a-delorean)
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
