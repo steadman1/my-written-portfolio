@@ -308,7 +308,7 @@ The French Touch animation (heavily inspired by Daft Punk) is the story of Daft 
    ➡️ <a href="https://www.instagram.com/reel/CdTXy9HloCj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Watch the full backyard in a blue void animation on my Instagram!!</a>
 </p>
 
-This project was the product of my attempt to see if I could fit a Steely Dan song into one of my animations which I believe I succeeded in! The inspiration behind this animation was a combination of nostalgia bait and liminal spaces which I implemented shown through the blue void in the back. The uneasy feeling and digitally nostalgic display of the scene with its pixelated look, helped build a strong atmosphere for the reverbed, similarly nostalgic, Kid Charlemagne by Steely Dan in the background.
+This project was the product of my attempt to see if I could fit a Steely Dan song into one of my animations which I believe I succeeded in! The inspiration behind this animation was a combination of nostalgia bait and liminal spaces which I implemented shown through the blue void in the back. The uneasy feeling and digitally nostalgic display of the scene with its pixelated look helped build a strong atmosphere for the reverbed, similarly nostalgic, Kid Charlemagne by Steely Dan in the background.
 
 #### The Ford Bronco
 <p align="center">
@@ -317,7 +317,7 @@ This project was the product of my attempt to see if I could fit a Steely Dan so
    <img src="/Blender Showcase/Ford Bronco/IMG_9514.jpg" width="256"/>
 </p>
 
-Still incomplete, this project has been an incredibly time-consuming conceptual extension of my [DeLorean](#a-delorean)
+Still incomplete, this project has been an incredibly time-consuming conceptual extension of my [DeLorean](#a-delorean). Currently, the model is mostly untextured, however, the geometry is done. The detail, planning, and research that has gone into the model have been borderline overwhelming. It's pretty unfortunate to not have beautiful renders published here, but if you want to take a look at the model, please [contact me](#contact-information), and I'll send the .blend file and some showcase videos over (they're too large to upload to GitHub)!
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
