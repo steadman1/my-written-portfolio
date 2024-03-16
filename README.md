@@ -21,6 +21,17 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
       - [M.R. Alpha: Meeting Recorder](#-mr-alpha-meeting-recorder)
       - [Spotify Buddy](#-spotify-buddy)
    4. [👨🏼‍🎨 My Design Projects](#-my-design-projects)
+      - [The Ponder Logo](#the-ponder-logo)
+      - [A Ponder Motion Design Study](#a-ponder-motion-design-study)
+      - [The Ponder Poster Collection](#the-ponder-poster-collection)
+      - [Dream Tapes Animation](#dream-tapes)
+      - [Katana and Knights Helmet Animation](#a-katana-and-knights-helmet)
+      - [DeLorean Renders](#a-delorean)
+      - [Spoon Catapult Animation](#spoon-catapult)
+      - [Saturn’s Ring Highway Render](#saturns-ring-highway)
+      - [French Touch Short Film](#the-french-touch)
+      - [Blue Void Backyard Animation](#backyard-in-a-blue-void)
+      - [The Ford Bronco Model](#the-ford-bronco)
 3. [🕵🏼‍♂️ A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [7 Years of Immigrant and Refugee Tutoring at Third Church RVA](#7-years-of-immigrant-and-refugee-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
@@ -190,7 +201,7 @@ This collection of design projects of mine are mostly a creative outlet for me r
 
 The development of Ponder has been so technically rewarding especially because of its pretty massive scope. With the creation of the logo you see above, I was able to extend Ponder from just an outwardly-facing software project to being an all encompassing design project. Overall, I'm still in love with the logo just as much as the moment I finished it. Tools I used to create it were pencil and paper, Figma, Adobe Illustrator, and Adobe Photoshop!
 
-#### A Ponder Motion Design Project
+#### A Ponder Motion Design Study
 <p align="center">
    <img src="/Ponder Design Showcase/logo_evolution_0.jpg" width="160"/>
    <img src="/Ponder Design Showcase/logo_evolution_1.jpg" width="160"/>
