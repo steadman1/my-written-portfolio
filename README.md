@@ -8,10 +8,10 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
 ## Contents
 1. [Introduction](#who-am-i)
 2. [My Skills Through Projects](#my-skills-shown-through-projects)
-   1. [🎶 My Interactive Portfolio Website 🏡](#-my-interactive-portfolio-website-)
-      - [✍🏻 The Portfolio Making Process](#-the-portfolio-making-process)  
+   1. [🏡🎶 My Interactive Portfolio Website](#-my-interactive-portfolio-website-)
+      - [The Portfolio Making Process](#-the-portfolio-making-process)  
    2. [🌎 My Globe Web App](#-my-globe-web-app)
-      - [👨🏼‍💻 The Blender & Three.js Learning Process](#-the-blender--threejs-learning-process)
+      - [The Blender & Three.js Learning Process](#-the-blender--threejs-learning-process)
    3. [🍎 My Swift Projects](#-my-swift-projects)
       - [Ponder: Lucid Dream Journal](#-ponder-lucid-dream-journal)
       - [Watch AI: AI on Your Wrist](#-watch-ai-ai-on-your-wrist)
@@ -41,11 +41,11 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
 
 ## My Skills Shown Through Projects
 
-### 🎶 My Interactive Portfolio Website 🏡
+### 🏡🎶 My Interactive Portfolio Website
 ➡️ [spencersteadman.com](https://www.spencersteadman.com)  
 (^ Heads up, the 3D model & textures are pretty large, so if it struggles to load on your device, try a more powerful device, find a better wifi connection, or refresh and give it some more time to load.)
 
-#### ✍🏻 The Portfolio Making Process
+#### The Portfolio Making Process
 This was a fairly massive project for me as it combined programming with Typescript and Javascript, 3D design with Blender, and graphic design in Photoshop with a few posters I included in the apartment model. I want to stress that every aspect and detail of my portfolio was designed, programmed, and modeled entirely by me. This website ([source code here on my Github](https://github.com/steadman1/portfolio-website)) was my fourth big web project following my first basic [static portfolio](Static%20Portfolio/), a [virtual stock market](Virtual%20Stock%20Market/) attempt, and an earlier Three.js project with my [globe web app](Globe%20Web%20App/) which also heavily incorporated Blender. However, I decided the first three were great learning experiences but should probably stay offline. Following my first attempt at working with Three.js, as mentioned earlier, I decided to build my spencersteadman.com portfolio as a sort of conceptual extension of all three of my previous projects. With spencersteadman.com being a highly interactive display of my experience, hobbies, and goals, it serves to encapsulate my diverse skill sets into one place in a, in my opinion, impressive display of creativity. Another small detail of this website that I enjoyed was the design of the UI. As a self-taught beginner, at the time at least, to UI/UX design, I wanted to explore outside of the boring flat design that has flooded software following Apple's switch from skeuomorphism to the minimalist flat design with iOS 7. Although this was a great move by Apple leading to a revolutionary switch in front-end design, minimalism in software has become a framework for easy, low-skill, drag-and-drop design for companies to use to maximize profit. Side note: this is a very polarized version of my actual opinion on minimalist flat design—I believe it's fantastic due to its simplicity for users and low barriers of entry for new designers like me. Back to my portfolio, though, working with 3D and 2D UI elements with a mix of claymorphism with my flat 3D textured objects and neumorphism with my Flat 3D HTML elements. This design challenge was a super interesting case study of mixing alternative UI styles and artistic mediums especially as companies like AirBnB and Apple explore innovative UI design as "Spatial Computing" has begun to emerge. 
 
 
@@ -65,7 +65,7 @@ This was a fairly massive project for me as it combined programming with Typescr
    ➡️ <a href="https://www.instagram.com/p/CZnpgciAg9V/">Watch the full globe animation on my Instagram!!</a>
 </p>
 
-#### 👨🏼‍💻 The Blender & Three.js Learning Process
+#### The Blender & Three.js Learning Process
 As I mentioned in [*✍🏻 The Portfolio Making Process*](#-the-portfolio-making-process), I had to learn and use Three.js for my current [spencersteadman.com](https://www.spencersteadman.com) portfolio which proceeded my [My Globe Web App project](Globe%20Web%20App/). The idea for these two web app projects stemmed from my desire to explore outside of code, which I picked up in late 2019 through my participation in my school's International Baccalaureate program (which I also successfully graduated from and got my IB Diploma 👏👏, thank you, thank you 👏👏), and into more design fields. I had already been an active user of Adobe Photoshop and Premiere Pro, so I decided to try pivoting to 3D modeling and 3D motion design with Blender in mid-2021. I started with a few YouTube tutorials where I created my version of the infamous ["Blender Donut."](Blender%20Showcase/Infamous%20Donut/) I continued my dive into 3D modeling pretty heavily with a variety of complex projects and 3D motion design & 3D animation projects ([plenty of showcase images here + .blend files!!](Blender%20Showcase/)). During this time, I got the idea to combine my newfound passion for 3D modeling with programming websites which I was also enjoying at the time. So, the initial idea for the spinning globe web app seemed like a logical line to follow. And then—boom—the brainchild was formed. The development of the website was a blast especially since I got to learn Three.js and explore texturing in Blender which I discovered I'm admittedly pretty bad at. However, understanding and enjoying Three.js in combination with Blender was a driving force in completing the project which continued into the development of [spencersteadman.com](https://www.spencersteadman.com). Following this timeline format, after finishing the globe web app project, I continued working in Blender with my favorite project being my [Ford Bronco](#the-ford-bronco) model. Since completing my magnum opus Ford Bronco model, I haven't worked much with Blender mainly from my workload here at Virginia Tech. However, my desire to be creative is just as strong if not stronger, and I've been working on random small projects here and there.
 
 
