@@ -8,7 +8,7 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
 ## Contents
 1. [Introduction](#who-am-i)
 2. [My Skills Through Projects](#my-skills-shown-through-projects)
-   1. [🏡🎶 My Interactive Portfolio Website](#-my-interactive-portfolio-website-)
+   1. [🏡🎶 My Interactive Portfolio Website](#-my-interactive-portfolio-website)
       - [The Portfolio Making Process](#the-portfolio-making-process)  
    2. [🌎 My Globe Web App](#-my-globe-web-app)
       - [The Blender & Three.js Learning Process](#the-blender--threejs-learning-process)
