@@ -351,11 +351,28 @@ Still incomplete, this project has been an incredibly time-consuming conceptual 
 ➡️ [Read the full piece here!](https://docs.google.com/document/d/1l31QTMdVik7KW1pqCiDDEYldWchC7JmFUfb6N8aHqZE/edit?usp=sharing)  
 ➡️ [Or download it here!](/Creative%20Writing/The%20Most%20Wonderful%20of%20Metaphysico-socio-arch-economical%20Systems.docx)  
 
+<p align="center">
+   <img src="/Creative Writing/Candide_1.jpeg" width="205"/>
+   <img src="/Creative Writing/Candide_2.jpeg" width="350"/>
+</p>
+
+<p align="center">
+   Candide by Voltaire—my inspiration for this piece!
+</p>
+
 This piece, my best according to my Mom and Grandpa, inspired by the absurdist style of Voltaire’s Candide, is about a brainwashed capitalist society living around a Dutch University that has become a victim of an extreme wealth gap and its solution is to print money to temporarily inflate the lower class’s perceived wealth (The US in 2020 to now). Plus, I included a small critique of the modern-day “grind set” mentality that has gone way too far. I absolutely loved writing this picaresque-structured piece with its pretentious and whimsy style.
 
 ### A Bird’s Eye View
 ➡️ [Read the full piece here!](https://docs.google.com/document/d/1ggvd689wuFWcl_2ajge4yKh7Q_zWqbgwOIFvwO1tIx8/edit?usp=sharing)  
 ➡️ [Or download it here!](/Creative%20Writing/Bird's%20Eye%20View.docx)  
+
+<p align="center">
+   <img src="/Creative Writing/Birds_Eye_View_Objects.jpg" width="450"/>
+</p>
+
+<p align="center">
+   The three objects in the essay!
+</p>
 
 This piece, inspired by the beautiful essays of Virginia Woolf, tells the story of my consciousness as I fall asleep at my desk. As my mind remembers a few certain memories associated with objects on my desk in front of me, my consciousness flies through the city built from my memories and experiences with the city's lights reacting with each memory's importance. The end of the piece is by far my favorite of any piece I have ever written. This piece is conceptually one of my favorites besides [The Most Wonderful of Metaphysico-socio-arch-economical Systems](#the-most-wonderful-of-metaphysico-socio-arch-economical-systems) piece. Overall, this piece acts an an incredibly powerful lens into how my mind works, and, because of that, I cherish it quite a lot. 
 
@@ -364,7 +381,7 @@ This piece, inspired by the beautiful essays of Virginia Woolf, tells the story 
 ➡️ [Or download it here!](/Creative%20Writing/Minnows%20to%20Seagulls.docx)  
 
 <p align="center">
-   <img src="/Creative Writing/Eccentric_Memories_Mini_Piece.jpeg" width="300"/>
+   <img src="/Creative Writing/Eccentric_Memories_Mini_Piece.jpeg" width="450"/>
 </p>
 
 With inspiration from a mini piece I worked on in combo with a little doodle of a dock, this piece was the brain child of my dream to live on a small sail boat. With the extensive beach and water motifs, this piece is a similarly powerful lens of [A Bird’s Eye View](#a-birds-eye-view) into my psyche as I grew up constantly surrounded by pools, beaches, and the sprinklers I used to run through in my backyard. This essay also acted as a case study of how well I could blend scenes together. In the end, I'm really proud of this essay's imagery, narrative and transistions, so I guess I succeeded in my goal!
