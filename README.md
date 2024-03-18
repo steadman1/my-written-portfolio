@@ -212,6 +212,7 @@ This collection of design projects of mine is mostly a creative outlet for me ra
 <p align="center">
    <img src="/Ponder Design Showcase/ponder_bubbly_icon_rounded.png" width="180"/>
    <img src="/Ponder Design Showcase/ponder_full.png" height="180"/>
+   <img src="/Ponder Design Showcase/ponder_photoshop_full.png" height="180"/>
 </p>
 
 The development of Ponder has been so technically rewarding especially because of its pretty massive scope. With the creation of the logo you see above, I was able to extend Ponder from just an outwardly-facing software project to being an all-encompassing design project. Overall, I'm still in love with the logo just as much as the moment I finished it. Tools I used to create it were pencil and paper, Figma, Adobe Illustrator, and Adobe Photoshop!
@@ -222,7 +223,6 @@ The development of Ponder has been so technically rewarding especially because o
    <img src="/Ponder Design Showcase/logo_evolution_1.jpg" width="150"/>
    <img src="/Ponder Design Showcase/photoshop_animation_frame.jpg" width="150"/>
    <img src="/Ponder Design Showcase/logo_evolution_2.jpg" width="150"/>
-   <img src="/Ponder Design Showcase/ponder_photoshop_full.png" width="150"/>
 </p>
 <p align="center">
    ➡️ <a href="https://www.instagram.com/p/Cvgt0n2g-rp/?img_index=1">Watch the full animation on my Instagram!!</a>
