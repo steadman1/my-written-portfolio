@@ -32,6 +32,11 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
       - [French Touch Short Film](#the-french-touch)
       - [Blue Void Backyard Animation](#backyard-in-a-blue-void)
       - [The Ford Bronco Model](#the-ford-bronco)
+   5. [📝 Creative Writing Pieces](#-creative-writing-pieces)
+      - [The Most Wonderful of Metaphysico-socio-arch-economical Systems](#the-most-wonderful-of-metaphysico-socio-arch-economical-systems)
+      - [From Minnows to Seagulls](#from-minnows-to-seagulls)
+      - [A Bird’s Eye View](#a-birds-eye-view)
+      - [Eccentric Memories](#eccentric-memories)
 3. [🕵🏼‍♂️ A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [Immigrant and Refugee Tutoring](#7-years-of-immigrant-and-refugee-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
@@ -340,6 +345,32 @@ This project was the product of my attempt to see if I could fit a Steely Dan so
 </p>
 
 Still incomplete, this project has been an incredibly time-consuming conceptual extension of my [DeLorean](#a-delorean). Currently, the model is mostly untextured, however, the geometry is done. The detail, planning, and research that has gone into the model have been borderline overwhelming. It's pretty unfortunate to not have beautiful renders published here, but if you want to take a look at the model, please [contact me](#contact-information), and I'll send the .blend file and some showcase videos over (they're too large to upload to GitHub)!
+
+## 📝 Creative Writing Pieces
+
+### The Most Wonderful of Metaphysico-socio-arch-economical Systems
+➡️ [Read the full piece here!](https://docs.google.com/document/d/1l31QTMdVik7KW1pqCiDDEYldWchC7JmFUfb6N8aHqZE/edit?usp=sharing)  
+➡️ [Or download it here!](/Creative%20Writing/The%20Most%20Wonderful%20of%20Metaphysico-socio-arch-economical%20Systems.docx)  
+
+This piece, my best according to my Mom and Grandpa, inspired by the absurdist style of Voltaire’s Candide, is about a brainwashed capitalist society living around a Dutch University that has become a victim of an extreme wealth gap and its solution is to print money to temporarily inflate the lower class’s perceived wealth (The US in 2020 to now). Plus, I included a small critique of the modern-day “grind set” mentality that has gone way too far. I absolutely loved writing this picaresque-structured piece with its pretentious and whimsy style.
+
+### From Minnows to Seagulls
+➡️ [Read the full piece here!](https://docs.google.com/document/d/1XqrnK7KGw0cT6Xz8nWug5QjRkgRjQYY-qLioX4xN1_w/edit?usp=sharing)  
+➡️ [Or download it here!](/Creative%20Writing/Minnows%20to%20Seagulls.docx)  
+
+
+
+### A Bird’s Eye View
+➡️ [Read the full piece here!](https://docs.google.com/document/d/1ggvd689wuFWcl_2ajge4yKh7Q_zWqbgwOIFvwO1tIx8/edit?usp=sharing)  
+➡️ [Or download it here!](/Creative%20Writing/Bird's%20Eye%20View.docx)  
+
+This piece, inspired by the beautiful essays of Virginia Woolf, tells the story of my consciousness as I fall asleep at my desk. As my mind remembers a few certain memories associated with objects on my desk in front of me, my consciousness flies through the city built from my memories and experiences with the city's lights reacting with each memory's importance. The end of the piece is by far my favorite of any piece I have ever written. This piece is conceptually one of my favorites besides [The Most Wonderful of Metaphysico-socio-arch-economical Systems](#the-most-wonderful-of-metaphysico-socio-arch-economical-systems) piece. Overall, this piece acts an an incredibly powerful lens into how my mind works, and, because of that, I cherish it quite a lot. 
+
+### Eccentric Memories
+➡️ [Read the full piece here!](https://docs.google.com/document/d/1EaIH6YA8_D2WDmP9AvyWPTp0OMZNF7ma8sjcwMhNtlQ/edit?usp=sharing)  
+➡️ [Or download it here!](/Creative%20Writing/Eccentric%20Memories.docx)  
+
+
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
