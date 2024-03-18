@@ -36,7 +36,6 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
       - [The Most Wonderful of Metaphysico-socio-arch-economical Systems](#the-most-wonderful-of-metaphysico-socio-arch-economical-systems)
       - [From Minnows to Seagulls](#from-minnows-to-seagulls)
       - [A Bird’s Eye View](#a-birds-eye-view)
-      - [Eccentric Memories](#eccentric-memories)
 3. [🕵🏼‍♂️ A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [Immigrant and Refugee Tutoring](#7-years-of-immigrant-and-refugee-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
@@ -354,23 +353,21 @@ Still incomplete, this project has been an incredibly time-consuming conceptual 
 
 This piece, my best according to my Mom and Grandpa, inspired by the absurdist style of Voltaire’s Candide, is about a brainwashed capitalist society living around a Dutch University that has become a victim of an extreme wealth gap and its solution is to print money to temporarily inflate the lower class’s perceived wealth (The US in 2020 to now). Plus, I included a small critique of the modern-day “grind set” mentality that has gone way too far. I absolutely loved writing this picaresque-structured piece with its pretentious and whimsy style.
 
-### From Minnows to Seagulls
-➡️ [Read the full piece here!](https://docs.google.com/document/d/1XqrnK7KGw0cT6Xz8nWug5QjRkgRjQYY-qLioX4xN1_w/edit?usp=sharing)  
-➡️ [Or download it here!](/Creative%20Writing/Minnows%20to%20Seagulls.docx)  
-
-
-
 ### A Bird’s Eye View
 ➡️ [Read the full piece here!](https://docs.google.com/document/d/1ggvd689wuFWcl_2ajge4yKh7Q_zWqbgwOIFvwO1tIx8/edit?usp=sharing)  
 ➡️ [Or download it here!](/Creative%20Writing/Bird's%20Eye%20View.docx)  
 
 This piece, inspired by the beautiful essays of Virginia Woolf, tells the story of my consciousness as I fall asleep at my desk. As my mind remembers a few certain memories associated with objects on my desk in front of me, my consciousness flies through the city built from my memories and experiences with the city's lights reacting with each memory's importance. The end of the piece is by far my favorite of any piece I have ever written. This piece is conceptually one of my favorites besides [The Most Wonderful of Metaphysico-socio-arch-economical Systems](#the-most-wonderful-of-metaphysico-socio-arch-economical-systems) piece. Overall, this piece acts an an incredibly powerful lens into how my mind works, and, because of that, I cherish it quite a lot. 
 
-### Eccentric Memories
-➡️ [Read the full piece here!](https://docs.google.com/document/d/1EaIH6YA8_D2WDmP9AvyWPTp0OMZNF7ma8sjcwMhNtlQ/edit?usp=sharing)  
-➡️ [Or download it here!](/Creative%20Writing/Eccentric%20Memories.docx)  
+### From Minnows to Seagulls
+➡️ [Read the full piece here!](https://docs.google.com/document/d/1XqrnK7KGw0cT6Xz8nWug5QjRkgRjQYY-qLioX4xN1_w/edit?usp=sharing)  
+➡️ [Or download it here!](/Creative%20Writing/Minnows%20to%20Seagulls.docx)  
 
+<p align="center">
+   <img src="/Creative Writing/Eccentric_Memories_Mini_Piece.jpeg" width="300"/>
+</p>
 
+With inspiration from a mini piece I worked on in combo with a little doodle of a dock, this piece was the brain child of my dream to live on a small sail boat. With the extensive beach and water motifs, this piece is a similarly powerful lens of [A Bird’s Eye View](#a-birds-eye-view) into my psyche as I grew up constantly surrounded by pools, beaches, and the sprinklers I used to run through in my backyard. This essay also acted as a case study of how well I could blend scenes together. In the end, I'm really proud of this essay's imagery, narrative and transistions, so I guess I succeeded in my goal!
 
 ## 🕵🏼‍♂️ A Look Into My Professional Life
 
