@@ -218,10 +218,11 @@ The development of Ponder has been so technically rewarding especially because o
 
 #### A Ponder Motion Design Study
 <p align="center">
-   <img src="/Ponder Design Showcase/logo_evolution_0.jpg" width="160"/>
-   <img src="/Ponder Design Showcase/logo_evolution_1.jpg" width="160"/>
-   <img src="/Ponder Design Showcase/photoshop_animation_frame.jpg" width="160"/>
-   <img src="/Ponder Design Showcase/logo_evolution_2.jpg" width="160"/>
+   <img src="/Ponder Design Showcase/logo_evolution_0.jpg" width="150"/>
+   <img src="/Ponder Design Showcase/logo_evolution_1.jpg" width="150"/>
+   <img src="/Ponder Design Showcase/photoshop_animation_frame.jpg" width="150"/>
+   <img src="/Ponder Design Showcase/logo_evolution_2.jpg" width="150"/>
+   <img src="/Ponder Design Showcase/ponder_photoshop_full.png" width="150"/>
 </p>
 <p align="center">
    ➡️ <a href="https://www.instagram.com/p/Cvgt0n2g-rp/?img_index=1">Watch the full animation on my Instagram!!</a>
