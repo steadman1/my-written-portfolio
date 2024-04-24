@@ -5,9 +5,43 @@ Hi, I'm Spencer Steadman—an independent, self-taught software engineer and stu
 I'm excited for what the future holds and I'm keen to become a part of a progressive team, where my enthusiasm and skill sets can play a role in developing groundbreaking technology. My journey has been one of unwavering dedication toward excellence, and I look forward to learning from industry leaders, challenging my limits, and pushing the boundaries of tech. For more technical and experiential information, my LinkedIn has plenty more information about me: [Spencer Steadman—About](https://www.linkedin.com/in/spencer-steadman/#About).  
 Who am I beyond the code and design work? At heart, I'm an athlete and self-proclaimed music connoisseur (my favorite artists being Steely Dan, Daft Punk, Radiohead. and The Beatles—check out [my Spotify](https://open.spotify.com/user/s_steadman) for more 🌞). Growing up surrounded by music, I quickly gained my passion for creativity and analytical thinking as my family often delved into discussions over every lyric in each song on the radio played over my Dad's speaker setups. Athletics, running and swimming particularly, have instilled a strong resilience and determination that I carry with me in all areas of my life. In my free time, I enjoy working on small design projects, iOS apps, occasionally some creative writing essays, and daydreaming about the beach.
 
+## Introduction To My Technical Skills
+(as of April 2024)
+- The Adobe Suite
+   - [x] Photoshop - 7 years
+   - [x] Premiere Pro - 7 years
+   - [x] Illustator - 2 year
+   - [x] After Effects - 2 years
+- Programming
+   - [x] Python - 5 years
+      - Worked with Python during my Emsco 
+      - [x] Numpy (with field exp.)
+      - [x] MatPlotLib (with field exp.)
+      - [x] Pandas (with field exp.)
+      - [x] Flask
+      - [x] Django
+   - [x] Swift - 4 years
+   - [x] Dart & Flutter - 2 years
+   - [x] JavaScript & TypeScript - 4 years
+      - [x] Three.js
+   - [x] Java - 3 years
+   - [x] Visual Basic for Applications - 1 year (with field exp.)
+- Design
+   - [x] Blender - 3 years
+   - [x] Figma - 4 years
+   - [x] HTML & CSS - 5 years
+   - [x] SwiftUI - 4 years
+- Corporate
+   - [x] Excel - 1 year (with field exp.)
+      - [x] PowerQuery
+      - [x] Pivot Tables
+      - [x] Macro Development
+   - [x] JobBoss2 - 1 year (with field exp.) 
+  
 ## Contents
-1. [Introduction](#who-am-i)
-2. [My Skills Through Projects](#my-skills-shown-through-projects)
+1. [Personal Introduction](#who-am-i)
+2. [Technical Skill Introduction](#introduction-to-my-technical-skills)
+3. [My Skills Through Projects](#my-skills-shown-through-projects)
    1. [🏡🎶 My Interactive Portfolio Website](#-my-interactive-portfolio-website)
       - [The Portfolio Making Process](#the-portfolio-making-process)  
    2. [🌎 My Globe Web App](#-my-globe-web-app)
@@ -36,12 +70,12 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
       - [The Most Wonderful of Metaphysico-socio-arch-economical Systems](#the-most-wonderful-of-metaphysico-socio-arch-economical-systems)
       - [From Minnows to Seagulls](#from-minnows-to-seagulls)
       - [A Bird’s Eye View](#a-birds-eye-view)
-3. [🕵🏼‍♂️ A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
+4. [🕵🏼‍♂️ A Look Into My Professional Life](#%EF%B8%8F-a-look-into-my-professional-life)  
    1. [Immigrant and Refugee Tutoring](#7-years-of-immigrant-and-refugee-tutoring-at-third-church-rva)
    2. [IT Internship at Emsco Inc.](#it-internship-at-emsco-inc)
    3. [A Position With Your Company 👀 (?)](#a-position-with-your-company--)
-4. [Too Long; Didn't Read](#too-long-didnt-read)
-5. [📥 Contact Information](#contact-information)  
+5. [Too Long; Didn't Read](#too-long-didnt-read)
+6. [📥 Contact Information](#contact-information)  
 
 ## My Skills Shown Through Projects
 
