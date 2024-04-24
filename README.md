@@ -41,7 +41,7 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
   
 ## Contents
 1. [Personal Introduction](#who-am-i)
-2. [Technical Skill Introduction](#introduction-to-my-technical-skills)
+2. [Technical Skill Introduction & Overview](#introduction-to-my-technical-skills)
 3. [My Skills Through Projects](#my-skills-shown-through-projects)
    1. [🏡🎶 My Interactive Portfolio Website](#-my-interactive-portfolio-website)
       - [The Portfolio Making Process](#the-portfolio-making-process)  
