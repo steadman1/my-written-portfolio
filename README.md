@@ -7,22 +7,24 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
 
 ## Introduction To My Technical Skills
 (as of April 2024)
-- The Adobe Suite
-   - [x] Photoshop - 7 years
-   - [x] Premiere Pro - 7 years
-   - [x] Illustator - 2 year
-   - [x] After Effects - 2 years
+- The Adobe Suite - 7 years
+   - [x] Photoshop
+   - [x] Premiere Pro
+   - [x] Illustator
+   - [x] After Effects
 - Programming
-   - [x] Python - 5 years
-      - Worked with Python during my Emsco 
+   - [x] Python - 5 years (with field exp.)
       - [x] Numpy (with field exp.)
       - [x] MatPlotLib (with field exp.)
       - [x] Pandas (with field exp.)
       - [x] Flask
       - [x] Django
    - [x] Swift - 4 years
+      - [x] UIKit
+      - [x] SwiftUI
    - [x] Dart & Flutter - 2 years
    - [x] JavaScript & TypeScript - 4 years
+      - [x] React.js
       - [x] Three.js
    - [x] Java - 3 years
    - [x] Visual Basic for Applications - 1 year (with field exp.)
@@ -30,11 +32,10 @@ Who am I beyond the code and design work? At heart, I'm an athlete and self-proc
    - [x] Blender - 3 years
    - [x] Figma - 4 years
    - [x] HTML & CSS - 5 years
-   - [x] SwiftUI - 4 years
 - Corporate
    - [x] Excel - 1 year (with field exp.)
-      - [x] PowerQuery
-      - [x] Pivot Tables
+      - [x] Power Query
+      - [x] PivotTables
       - [x] Macro Development
    - [x] JobBoss2 - 1 year (with field exp.) 
   
